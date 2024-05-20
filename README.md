@@ -12,7 +12,7 @@ Projet fait localement pour pouvoir jouer à Magic the Gathering entre amis, san
 > 
 > **Nous tenons à vous avertir que faire tout cela sera assez long, étant donné le nombre élevé d'images**
 
-[Lien de téléchargement pour les cartes simples](https://send.tresorit.com/a#qClLSz0g8ijnK5-BBRTcQA)  
+[Lien de téléchargement pour les cartes simples](https://send.tresorit.com/a#FitmIVlsXBsb8JQEZQz4CA)  
 
 [Lien de téléchargement pour les cartes doubles ainsi que les cartes tokens](https://send.tresorit.com/a#-NnRnh4QGKREkdN78lYHIQ)
 
