@@ -1,0 +1,2505 @@
+[
+    {
+        "id": "5aa90ab6-2686-4462-8725-5d4370c05437",
+        "name": "-",
+        "uri": "https://api.scryfall.com/cards/5aa90ab6-2686-4462-8725-5d4370c05437",
+        "scryfall_uri": "https://scryfall.com/card/unh/23/_____?utm_source=api",
+        "layout": "normal",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/5/a/5aa90ab6-2686-4462-8725-5d4370c05437.jpg?1663738897",
+            "normal": "https://cards.scryfall.io/normal/front/5/a/5aa90ab6-2686-4462-8725-5d4370c05437.jpg?1663738897",
+            "large": "https://cards.scryfall.io/large/front/5/a/5aa90ab6-2686-4462-8725-5d4370c05437.jpg?1663738897",
+            "png": "https://cards.scryfall.io/png/front/5/a/5aa90ab6-2686-4462-8725-5d4370c05437.png?1663738897"
+        },
+        "mana_cost": "{1}{U}",
+        "cmc": 2.0,
+        "type_line": "Creature \u2014 Shapeshifter",
+        "oracle_text": "{1}: This card's name becomes the card name of your choice. Activate anywhere, anytime.",
+        "power": "1",
+        "toughness": "1",
+        "colors": [
+            "U"
+        ],
+        "color_identity": [
+            "U"
+        ],
+        "set_id": "4c8bc76a-05a5-43db-aaf0-34deb347b871",
+        "set": "unh",
+        "set_name": "Unhinged",
+        "set_type": "funny",
+        "set_uri": "https://api.scryfall.com/sets/4c8bc76a-05a5-43db-aaf0-34deb347b871",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aunh&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/unh?utm_source=api",
+        "collector_number": "23",
+        "rarity": "uncommon",
+        "flavor_text": "{1}: This card's flavor text becomes the flavor text of your choice. (This ability doesn't work because it's flavor text, not rules text (but neither does this reminder text, so you figure it out).)"
+    },
+    {
+        "id": "e8fb396f-3ae1-4705-bf94-3e1b0556e910",
+        "name": "Acorn Stash",
+        "uri": "https://api.scryfall.com/cards/e8fb396f-3ae1-4705-bf94-3e1b0556e910",
+        "scryfall_uri": "https://scryfall.com/card/tund/6/acorn-stash?utm_source=api",
+        "layout": "normal",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/e/8/e8fb396f-3ae1-4705-bf94-3e1b0556e910.jpg?1604842479",
+            "normal": "https://cards.scryfall.io/normal/front/e/8/e8fb396f-3ae1-4705-bf94-3e1b0556e910.jpg?1604842479",
+            "large": "https://cards.scryfall.io/large/front/e/8/e8fb396f-3ae1-4705-bf94-3e1b0556e910.jpg?1604842479",
+            "png": "https://cards.scryfall.io/png/front/e/8/e8fb396f-3ae1-4705-bf94-3e1b0556e910.png?1604842479"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token",
+        "oracle_text": "(Place your acorn counters in this area.)",
+        "colors": [],
+        "color_identity": [],
+        "set_id": "8fe3f935-7c8d-4a4e-a051-c0b0f251d262",
+        "set": "tund",
+        "set_name": "Unsanctioned Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/8fe3f935-7c8d-4a4e-a051-c0b0f251d262",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atund&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tund?utm_source=api",
+        "collector_number": "6",
+        "rarity": "common"
+    },
+    {
+        "id": "1c97e5b2-a024-4aa7-a9b8-45f441aad138",
+        "name": "Ajani, Adversary of Tyrants Emblem",
+        "uri": "https://api.scryfall.com/cards/1c97e5b2-a024-4aa7-a9b8-45f441aad138",
+        "scryfall_uri": "https://scryfall.com/card/tm19/15/ajani-adversary-of-tyrants-emblem?utm_source=api",
+        "layout": "emblem",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/1/c/1c97e5b2-a024-4aa7-a9b8-45f441aad138.jpg?1562701927",
+            "normal": "https://cards.scryfall.io/normal/front/1/c/1c97e5b2-a024-4aa7-a9b8-45f441aad138.jpg?1562701927",
+            "large": "https://cards.scryfall.io/large/front/1/c/1c97e5b2-a024-4aa7-a9b8-45f441aad138.jpg?1562701927",
+            "png": "https://cards.scryfall.io/png/front/1/c/1c97e5b2-a024-4aa7-a9b8-45f441aad138.png?1562701927"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Emblem \u2014 Ajani",
+        "oracle_text": "At the beginning of your end step, create three 1/1 white Cat creature tokens with lifelink.",
+        "colors": [],
+        "color_identity": [],
+        "set_id": "f291a61b-4afa-4c57-85ac-c67d5ab1403d",
+        "set": "tm19",
+        "set_name": "Core Set 2019 Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/f291a61b-4afa-4c57-85ac-c67d5ab1403d",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atm19&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tm19?utm_source=api",
+        "collector_number": "15",
+        "rarity": "common"
+    },
+    {
+        "id": "e8ec39dd-8ba5-4a92-bfc8-4028a2c4691d",
+        "name": "Ajani Steadfast Emblem",
+        "uri": "https://api.scryfall.com/cards/e8ec39dd-8ba5-4a92-bfc8-4028a2c4691d",
+        "scryfall_uri": "https://scryfall.com/card/tm15/13/ajani-steadfast-emblem?utm_source=api",
+        "layout": "emblem",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/e/8/e8ec39dd-8ba5-4a92-bfc8-4028a2c4691d.jpg?1562640117",
+            "normal": "https://cards.scryfall.io/normal/front/e/8/e8ec39dd-8ba5-4a92-bfc8-4028a2c4691d.jpg?1562640117",
+            "large": "https://cards.scryfall.io/large/front/e/8/e8ec39dd-8ba5-4a92-bfc8-4028a2c4691d.jpg?1562640117",
+            "png": "https://cards.scryfall.io/png/front/e/8/e8ec39dd-8ba5-4a92-bfc8-4028a2c4691d.png?1562640117"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Emblem \u2014 Ajani",
+        "oracle_text": "If a source would deal damage to you or a planeswalker you control, prevent all but 1 of that damage.",
+        "colors": [],
+        "color_identity": [],
+        "set_id": "ae4f4088-26d4-479c-b615-1027c25bb577",
+        "set": "tm15",
+        "set_name": "Magic 2015 Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/ae4f4088-26d4-479c-b615-1027c25bb577",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atm15&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tm15?utm_source=api",
+        "collector_number": "13",
+        "rarity": "common"
+    },
+    {
+        "id": "e2235007-b02e-463b-95e1-a8bea74a0f9d",
+        "name": "Angel",
+        "uri": "https://api.scryfall.com/cards/e2235007-b02e-463b-95e1-a8bea74a0f9d",
+        "scryfall_uri": "https://scryfall.com/card/tust/1/angel-angel?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/e/2/e2235007-b02e-463b-95e1-a8bea74a0f9d.jpg?1571508092",
+            "normal": "https://cards.scryfall.io/normal/front/e/2/e2235007-b02e-463b-95e1-a8bea74a0f9d.jpg?1571508092",
+            "large": "https://cards.scryfall.io/large/front/e/2/e2235007-b02e-463b-95e1-a8bea74a0f9d.jpg?1571508092",
+            "png": "https://cards.scryfall.io/png/front/e/2/e2235007-b02e-463b-95e1-a8bea74a0f9d.png?1571508092"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Creature \u2014 Angel",
+        "oracle_text": "Flying",
+        "power": "4",
+        "toughness": "4",
+        "colors": [
+            "W"
+        ],
+        "color_identity": [
+            "W"
+        ],
+        "set_id": "f494ec08-2e39-4228-bddb-200967e2b109",
+        "set": "tust",
+        "set_name": "Unstable Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/f494ec08-2e39-4228-bddb-200967e2b109",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atust&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tust?utm_source=api",
+        "collector_number": "1",
+        "rarity": "common"
+    },
+    {
+        "id": "4ac2b852-92b2-4daf-9d1f-f71d3b27c241",
+        "name": "Angel",
+        "uri": "https://api.scryfall.com/cards/4ac2b852-92b2-4daf-9d1f-f71d3b27c241",
+        "scryfall_uri": "https://scryfall.com/card/phel/1%E2%98%85/angel-demon?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/4/a/4ac2b852-92b2-4daf-9d1f-f71d3b27c241.jpg?1561757080",
+            "normal": "https://cards.scryfall.io/normal/front/4/a/4ac2b852-92b2-4daf-9d1f-f71d3b27c241.jpg?1561757080",
+            "large": "https://cards.scryfall.io/large/front/4/a/4ac2b852-92b2-4daf-9d1f-f71d3b27c241.jpg?1561757080",
+            "png": "https://cards.scryfall.io/png/front/4/a/4ac2b852-92b2-4daf-9d1f-f71d3b27c241.png?1561757080"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Creature \u2014 Angel",
+        "oracle_text": "Flying",
+        "power": "4",
+        "toughness": "4",
+        "colors": [
+            "W"
+        ],
+        "color_identity": [
+            "W"
+        ],
+        "set_id": "e5c5553c-307e-4bee-ba0b-6e96e0f2c78f",
+        "set": "phel",
+        "set_name": "Open the Helvault",
+        "set_type": "memorabilia",
+        "set_uri": "https://api.scryfall.com/sets/e5c5553c-307e-4bee-ba0b-6e96e0f2c78f",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aphel&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/phel?utm_source=api",
+        "collector_number": "1\u2605",
+        "rarity": "common"
+    },
+    {
+        "id": "4ac2b852-92b2-4daf-9d1f-f71d3b27c241",
+        "name": "Demon",
+        "uri": "https://api.scryfall.com/cards/4ac2b852-92b2-4daf-9d1f-f71d3b27c241",
+        "scryfall_uri": "https://scryfall.com/card/phel/1%E2%98%85/angel-demon?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/back/4/a/4ac2b852-92b2-4daf-9d1f-f71d3b27c241.jpg?1561757080",
+            "normal": "https://cards.scryfall.io/normal/back/4/a/4ac2b852-92b2-4daf-9d1f-f71d3b27c241.jpg?1561757080",
+            "large": "https://cards.scryfall.io/large/back/4/a/4ac2b852-92b2-4daf-9d1f-f71d3b27c241.jpg?1561757080",
+            "png": "https://cards.scryfall.io/png/back/4/a/4ac2b852-92b2-4daf-9d1f-f71d3b27c241.png?1561757080"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Creature \u2014 Demon",
+        "oracle_text": "Flying",
+        "power": "5",
+        "toughness": "5",
+        "colors": [
+            "B"
+        ],
+        "color_identity": [
+            "B"
+        ],
+        "set_id": "e5c5553c-307e-4bee-ba0b-6e96e0f2c78f",
+        "set": "phel",
+        "set_name": "Open the Helvault",
+        "set_type": "memorabilia",
+        "set_uri": "https://api.scryfall.com/sets/e5c5553c-307e-4bee-ba0b-6e96e0f2c78f",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aphel&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/phel?utm_source=api",
+        "collector_number": "1\u2605",
+        "rarity": "common"
+    },
+    {
+        "id": "610def80-1303-488e-bfd9-4a27f031d20e",
+        "name": "Beast",
+        "uri": "https://api.scryfall.com/cards/610def80-1303-488e-bfd9-4a27f031d20e",
+        "scryfall_uri": "https://scryfall.com/card/tust/13/beast-beast?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/6/1/610def80-1303-488e-bfd9-4a27f031d20e.jpg?1571508307",
+            "normal": "https://cards.scryfall.io/normal/front/6/1/610def80-1303-488e-bfd9-4a27f031d20e.jpg?1571508307",
+            "large": "https://cards.scryfall.io/large/front/6/1/610def80-1303-488e-bfd9-4a27f031d20e.jpg?1571508307",
+            "png": "https://cards.scryfall.io/png/front/6/1/610def80-1303-488e-bfd9-4a27f031d20e.png?1571508307"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Creature \u2014 Beast",
+        "oracle_text": "",
+        "power": "3",
+        "toughness": "3",
+        "colors": [
+            "G"
+        ],
+        "color_identity": [
+            "G"
+        ],
+        "set_id": "f494ec08-2e39-4228-bddb-200967e2b109",
+        "set": "tust",
+        "set_name": "Unstable Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/f494ec08-2e39-4228-bddb-200967e2b109",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atust&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tust?utm_source=api",
+        "collector_number": "13",
+        "rarity": "common"
+    },
+    {
+        "id": "9b111525-0600-4bae-94a3-df8f9472388f",
+        "name": "Clue",
+        "uri": "https://api.scryfall.com/cards/9b111525-0600-4bae-94a3-df8f9472388f",
+        "scryfall_uri": "https://scryfall.com/card/tust/18/clue-clue?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/9/b/9b111525-0600-4bae-94a3-df8f9472388f.jpg?1571508353",
+            "normal": "https://cards.scryfall.io/normal/front/9/b/9b111525-0600-4bae-94a3-df8f9472388f.jpg?1571508353",
+            "large": "https://cards.scryfall.io/large/front/9/b/9b111525-0600-4bae-94a3-df8f9472388f.jpg?1571508353",
+            "png": "https://cards.scryfall.io/png/front/9/b/9b111525-0600-4bae-94a3-df8f9472388f.png?1571508353"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Artifact \u2014 Clue",
+        "oracle_text": "{2}, Sacrifice this artifact: Draw a card.",
+        "colors": [],
+        "color_identity": [],
+        "set_id": "f494ec08-2e39-4228-bddb-200967e2b109",
+        "set": "tust",
+        "set_name": "Unstable Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/f494ec08-2e39-4228-bddb-200967e2b109",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atust&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tust?utm_source=api",
+        "collector_number": "18",
+        "rarity": "common",
+        "flavor_text": "\"Their chanting grows louder as the tide rises.\" \u2014Tamiyo's journal"
+    },
+    {
+        "id": "dd308e57-6ded-4131-bc52-6c04025b8e61",
+        "name": "Contortionist",
+        "uri": "https://api.scryfall.com/cards/dd308e57-6ded-4131-bc52-6c04025b8e60",
+        "scryfall_uri": "https://scryfall.com/card/tunf/4/contortionist-contortionist?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/back/d/d/dd308e57-6ded-4131-bc52-6c04025b8e60.jpg?1675461160",
+            "normal": "https://cards.scryfall.io/normal/back/d/d/dd308e57-6ded-4131-bc52-6c04025b8e60.jpg?1675461160",
+            "large": "https://cards.scryfall.io/large/back/d/d/dd308e57-6ded-4131-bc52-6c04025b8e60.jpg?1675461160",
+            "png": "https://cards.scryfall.io/png/back/d/d/dd308e57-6ded-4131-bc52-6c04025b8e60.png?1675461160"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Creature \u2014 Octopus Performer",
+        "oracle_text": "At the beginning of your upkeep, you may fold this token in half.",
+        "power": "2",
+        "toughness": "2",
+        "colors": [
+            "U"
+        ],
+        "color_identity": [
+            "U"
+        ],
+        "set_id": "a60124f9-8002-4769-ac16-387b61fa2bc6",
+        "set": "tunf",
+        "set_name": "Unfinity Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/a60124f9-8002-4769-ac16-387b61fa2bc6",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atunf&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tunf?utm_source=api",
+        "collector_number": "4",
+        "rarity": "common"
+    },
+    {
+        "id": "dd308e57-6ded-4131-bc52-6c04025b8e62",
+        "name": "Contortionist",
+        "uri": "https://api.scryfall.com/cards/dd308e57-6ded-4131-bc52-6c04025b8e60",
+        "scryfall_uri": "https://scryfall.com/card/tunf/4/contortionist-contortionist?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/d/d/dd308e57-6ded-4131-bc52-6c04025b8e60.jpg?1675461160",
+            "normal": "https://cards.scryfall.io/normal/front/d/d/dd308e57-6ded-4131-bc52-6c04025b8e60.jpg?1675461160",
+            "large": "https://cards.scryfall.io/large/front/d/d/dd308e57-6ded-4131-bc52-6c04025b8e60.jpg?1675461160",
+            "png": "https://cards.scryfall.io/png/front/d/d/dd308e57-6ded-4131-bc52-6c04025b8e60.png?1675461160"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Creature \u2014 Octopus Performer",
+        "oracle_text": "At the beginning of your upkeep, you may fold this token in half.",
+        "power": "4",
+        "toughness": "4",
+        "colors": [
+            "U"
+        ],
+        "color_identity": [
+            "U"
+        ],
+        "set_id": "a60124f9-8002-4769-ac16-387b61fa2bc6",
+        "set": "tunf",
+        "set_name": "Unfinity Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/a60124f9-8002-4769-ac16-387b61fa2bc6",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atunf&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tunf?utm_source=api",
+        "collector_number": "4",
+        "rarity": "common"
+    },
+    {
+        "id": "a020dc47-3747-4123-9954-f0e87a858b8c",
+        "name": "Horror",
+        "uri": "https://api.scryfall.com/cards/a020dc47-3747-4123-9954-f0e87a858b8c",
+        "scryfall_uri": "https://scryfall.com/card/tgk1/1/copy-horror?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/back/a/0/a020dc47-3747-4123-9954-f0e87a858b8c.jpg?1639374083",
+            "normal": "https://cards.scryfall.io/normal/back/a/0/a020dc47-3747-4123-9954-f0e87a858b8c.jpg?1639374083",
+            "large": "https://cards.scryfall.io/large/back/a/0/a020dc47-3747-4123-9954-f0e87a858b8c.jpg?1639374083",
+            "png": "https://cards.scryfall.io/png/back/a/0/a020dc47-3747-4123-9954-f0e87a858b8c.png?1639374083"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Creature \u2014 Horror",
+        "oracle_text": "Flying",
+        "power": "1",
+        "toughness": "1",
+        "colors": [
+            "B",
+            "U"
+        ],
+        "color_identity": [
+            "B",
+            "U"
+        ],
+        "set_id": "9cabda5f-97cd-4eb3-93b9-83d1e9a191cb",
+        "set": "tgk1",
+        "set_name": "GRN Guild Kit Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/9cabda5f-97cd-4eb3-93b9-83d1e9a191cb",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atgk1&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tgk1?utm_source=api",
+        "collector_number": "1",
+        "rarity": "common",
+        "watermark": "dimir"
+    },
+    {
+        "id": "a020dc47-3747-4123-9954-f0e87a858b8c",
+        "name": "Copy",
+        "uri": "https://api.scryfall.com/cards/a020dc47-3747-4123-9954-f0e87a858b8c",
+        "scryfall_uri": "https://scryfall.com/card/tgk1/1/copy-horror?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/a/0/a020dc47-3747-4123-9954-f0e87a858b8c.jpg?1639374083",
+            "normal": "https://cards.scryfall.io/normal/front/a/0/a020dc47-3747-4123-9954-f0e87a858b8c.jpg?1639374083",
+            "large": "https://cards.scryfall.io/large/front/a/0/a020dc47-3747-4123-9954-f0e87a858b8c.jpg?1639374083",
+            "png": "https://cards.scryfall.io/png/front/a/0/a020dc47-3747-4123-9954-f0e87a858b8c.png?1639374083"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token",
+        "oracle_text": "",
+        "colors": [],
+        "color_identity": [],
+        "set_id": "9cabda5f-97cd-4eb3-93b9-83d1e9a191cb",
+        "set": "tgk1",
+        "set_name": "GRN Guild Kit Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/9cabda5f-97cd-4eb3-93b9-83d1e9a191cb",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atgk1&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tgk1?utm_source=api",
+        "collector_number": "1",
+        "rarity": "common",
+        "watermark": "dimir"
+    },
+    {
+        "id": "dc26e13b-7a0f-4e7f-8593-4f22234f4517",
+        "name": "Day",
+        "uri": "https://api.scryfall.com/cards/dc26e13b-7a0f-4e7f-8593-4f22234f4517",
+        "scryfall_uri": "https://scryfall.com/card/tvow/21/day-night?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/d/c/dc26e13b-7a0f-4e7f-8593-4f22234f4517.jpg?1675457589",
+            "normal": "https://cards.scryfall.io/normal/front/d/c/dc26e13b-7a0f-4e7f-8593-4f22234f4517.jpg?1675457589",
+            "large": "https://cards.scryfall.io/large/front/d/c/dc26e13b-7a0f-4e7f-8593-4f22234f4517.jpg?1675457589",
+            "png": "https://cards.scryfall.io/png/front/d/c/dc26e13b-7a0f-4e7f-8593-4f22234f4517.png?1675457589"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token",
+        "oracle_text": "(If it becomes day or night or if a daybound permanent enters the battlefield, track day/night for the rest of the game.)\nAs it becomes day, transform all nightbound permanents.\nIf a player casts no spells during their own turn, it becomes night next turn.",
+        "colors": [],
+        "color_identity": [],
+        "set_id": "381f2eb8-544e-409c-a8c5-7171cd78edea",
+        "set": "tvow",
+        "set_name": "Innistrad: Crimson Vow Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/381f2eb8-544e-409c-a8c5-7171cd78edea",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atvow&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tvow?utm_source=api",
+        "collector_number": "21",
+        "rarity": "common"
+    },
+    {
+        "id": "dc26e13b-7a0f-4e7f-8593-4f22234f4517",
+        "name": "Night",
+        "uri": "https://api.scryfall.com/cards/dc26e13b-7a0f-4e7f-8593-4f22234f4517",
+        "scryfall_uri": "https://scryfall.com/card/tvow/21/day-night?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/back/d/c/dc26e13b-7a0f-4e7f-8593-4f22234f4517.jpg?1675457589",
+            "normal": "https://cards.scryfall.io/normal/back/d/c/dc26e13b-7a0f-4e7f-8593-4f22234f4517.jpg?1675457589",
+            "large": "https://cards.scryfall.io/large/back/d/c/dc26e13b-7a0f-4e7f-8593-4f22234f4517.jpg?1675457589",
+            "png": "https://cards.scryfall.io/png/back/d/c/dc26e13b-7a0f-4e7f-8593-4f22234f4517.png?1675457589"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token",
+        "oracle_text": "As it becomes night, transform all daybound permanents.\nPermanents enter the battlefield nightbound.\nIf a player casts at least two spells during their own turn, it becomes day next turn.",
+        "colors": [],
+        "color_identity": [],
+        "set_id": "381f2eb8-544e-409c-a8c5-7171cd78edea",
+        "set": "tvow",
+        "set_name": "Innistrad: Crimson Vow Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/381f2eb8-544e-409c-a8c5-7171cd78edea",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atvow&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tvow?utm_source=api",
+        "collector_number": "21",
+        "rarity": "common"
+    },
+    {
+        "id": "9c0f7843-4cbb-4d0f-8887-ec823a9238da",
+        "name": "Day",
+        "uri": "https://api.scryfall.com/cards/9c0f7843-4cbb-4d0f-8887-ec823a9238da",
+        "scryfall_uri": "https://scryfall.com/card/tmid/19/day-night?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/9/c/9c0f7843-4cbb-4d0f-8887-ec823a9238da.jpg?1644880530",
+            "normal": "https://cards.scryfall.io/normal/front/9/c/9c0f7843-4cbb-4d0f-8887-ec823a9238da.jpg?1644880530",
+            "large": "https://cards.scryfall.io/large/front/9/c/9c0f7843-4cbb-4d0f-8887-ec823a9238da.jpg?1644880530",
+            "png": "https://cards.scryfall.io/png/front/9/c/9c0f7843-4cbb-4d0f-8887-ec823a9238da.png?1644880530"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token",
+        "oracle_text": "(If it becomes day or night or if a daybound permanent enters the battlefield, track day/night for the rest of the game.)\nAs it becomes day, transform all nightbound permanents.\nIf a player casts no spells during their own turn, it becomes night next turn.",
+        "colors": [],
+        "color_identity": [],
+        "set_id": "cb7c7eac-c13c-465e-b276-85517f1472d8",
+        "set": "tmid",
+        "set_name": "Innistrad: Midnight Hunt Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/cb7c7eac-c13c-465e-b276-85517f1472d8",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atmid&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tmid?utm_source=api",
+        "collector_number": "19",
+        "rarity": "common"
+    },
+    {
+        "id": "9c0f7843-4cbb-4d0f-8887-ec823a9238da",
+        "name": "Night",
+        "uri": "https://api.scryfall.com/cards/9c0f7843-4cbb-4d0f-8887-ec823a9238da",
+        "scryfall_uri": "https://scryfall.com/card/tmid/19/day-night?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/back/9/c/9c0f7843-4cbb-4d0f-8887-ec823a9238da.jpg?1644880530",
+            "normal": "https://cards.scryfall.io/normal/back/9/c/9c0f7843-4cbb-4d0f-8887-ec823a9238da.jpg?1644880530",
+            "large": "https://cards.scryfall.io/large/back/9/c/9c0f7843-4cbb-4d0f-8887-ec823a9238da.jpg?1644880530",
+            "png": "https://cards.scryfall.io/png/back/9/c/9c0f7843-4cbb-4d0f-8887-ec823a9238da.png?1644880530"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token",
+        "oracle_text": "As it becomes night, transform all daybound permanents.\nPermanents enter the battlefield nightbound.\nIf a player casts at least two spells during their own turn, it becomes day next turn.",
+        "colors": [],
+        "color_identity": [],
+        "set_id": "cb7c7eac-c13c-465e-b276-85517f1472d8",
+        "set": "tmid",
+        "set_name": "Innistrad: Midnight Hunt Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/cb7c7eac-c13c-465e-b276-85517f1472d8",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atmid&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tmid?utm_source=api",
+        "collector_number": "19",
+        "rarity": "common"
+    },
+    {
+        "id": "21f5880d-6272-4ba8-bdf8-f9a7e54a3336",
+        "name": "Treasure",
+        "uri": "https://api.scryfall.com/cards/21f5880d-6272-4ba8-bdf8-f9a7e54a3336",
+        "scryfall_uri": "https://scryfall.com/card/f17/11/dinosaur-treasure?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/back/2/1/21f5880d-6272-4ba8-bdf8-f9a7e54a3336.jpg?1665776390",
+            "normal": "https://cards.scryfall.io/normal/back/2/1/21f5880d-6272-4ba8-bdf8-f9a7e54a3336.jpg?1665776390",
+            "large": "https://cards.scryfall.io/large/back/2/1/21f5880d-6272-4ba8-bdf8-f9a7e54a3336.jpg?1665776390",
+            "png": "https://cards.scryfall.io/png/back/2/1/21f5880d-6272-4ba8-bdf8-f9a7e54a3336.png?1665776390"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Artifact \u2014 Treasure",
+        "oracle_text": "{T}, Sacrifice this artifact: Add one mana of any color.",
+        "colors": [],
+        "color_identity": [],
+        "produced_mana": [
+            "B",
+            "G",
+            "R",
+            "U",
+            "W"
+        ],
+        "set_id": "690dae5c-2de4-4071-b77c-19883791f987",
+        "set": "f17",
+        "set_name": "Friday Night Magic 2017",
+        "set_type": "promo",
+        "set_uri": "https://api.scryfall.com/sets/690dae5c-2de4-4071-b77c-19883791f987",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Af17&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/f17?utm_source=api",
+        "collector_number": "11",
+        "rarity": "common"
+    },
+    {
+        "id": "21f5880d-6272-4ba8-bdf8-f9a7e54a3336",
+        "name": "Dinosaur",
+        "uri": "https://api.scryfall.com/cards/21f5880d-6272-4ba8-bdf8-f9a7e54a3336",
+        "scryfall_uri": "https://scryfall.com/card/f17/11/dinosaur-treasure?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/2/1/21f5880d-6272-4ba8-bdf8-f9a7e54a3336.jpg?1665776390",
+            "normal": "https://cards.scryfall.io/normal/front/2/1/21f5880d-6272-4ba8-bdf8-f9a7e54a3336.jpg?1665776390",
+            "large": "https://cards.scryfall.io/large/front/2/1/21f5880d-6272-4ba8-bdf8-f9a7e54a3336.jpg?1665776390",
+            "png": "https://cards.scryfall.io/png/front/2/1/21f5880d-6272-4ba8-bdf8-f9a7e54a3336.png?1665776390"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Creature \u2014 Dinosaur",
+        "oracle_text": "Trample",
+        "power": "3",
+        "toughness": "3",
+        "colors": [
+            "G"
+        ],
+        "color_identity": [
+            "G"
+        ],
+        "set_id": "690dae5c-2de4-4071-b77c-19883791f987",
+        "set": "f17",
+        "set_name": "Friday Night Magic 2017",
+        "set_type": "promo",
+        "set_uri": "https://api.scryfall.com/sets/690dae5c-2de4-4071-b77c-19883791f987",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Af17&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/f17?utm_source=api",
+        "collector_number": "11",
+        "rarity": "common"
+    },
+    {
+        "id": "9052f5c7-ee3b-457d-97ca-ac6b45189971",
+        "name": "Doubling Cube",
+        "flavor_name": "The AllSpark",
+        "uri": "https://api.scryfall.com/cards/9052f5c7-ee3b-457d-97ca-ac6b4518997c",
+        "scryfall_uri": "https://scryfall.com/card/sld/1080/doubling-cube-doubling-cube?utm_source=api",
+        "layout": "normal",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/back/9/0/9052f5c7-ee3b-457d-97ca-ac6b4518997c.jpg?1675183209",
+            "normal": "https://cards.scryfall.io/normal/back/9/0/9052f5c7-ee3b-457d-97ca-ac6b4518997c.jpg?1675183209",
+            "large": "https://cards.scryfall.io/large/back/9/0/9052f5c7-ee3b-457d-97ca-ac6b4518997c.jpg?1675183209",
+            "png": "https://cards.scryfall.io/png/back/9/0/9052f5c7-ee3b-457d-97ca-ac6b4518997c.png?1675183209"
+        },
+        "mana_cost": "{2}",
+        "cmc": 2.0,
+        "type_line": "Artifact",
+        "oracle_text": "{3}, {T}: Double the amount of each type of unspent mana you have.",
+        "colors": [],
+        "color_identity": [],
+        "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set": "sld",
+        "set_name": "Secret Lair Drop",
+        "set_type": "box",
+        "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+        "collector_number": "1080",
+        "rarity": "rare",
+        "flavor_text": "\"Peace through tyranny.\"\n\u2014Megatron"
+    },
+    {
+        "id": "9052f5c7-ee3b-457d-97ca-ac6b45189972",
+        "name": "Doubling Cube",
+        "flavor_name": "The AllSpark",
+        "uri": "https://api.scryfall.com/cards/9052f5c7-ee3b-457d-97ca-ac6b4518997c",
+        "scryfall_uri": "https://scryfall.com/card/sld/1080/doubling-cube-doubling-cube?utm_source=api",
+        "layout": "normal",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/9/0/9052f5c7-ee3b-457d-97ca-ac6b4518997c.jpg?1675183209",
+            "normal": "https://cards.scryfall.io/normal/front/9/0/9052f5c7-ee3b-457d-97ca-ac6b4518997c.jpg?1675183209",
+            "large": "https://cards.scryfall.io/large/front/9/0/9052f5c7-ee3b-457d-97ca-ac6b4518997c.jpg?1675183209",
+            "png": "https://cards.scryfall.io/png/front/9/0/9052f5c7-ee3b-457d-97ca-ac6b4518997c.png?1675183209"
+        },
+        "mana_cost": "{2}",
+        "cmc": 2.0,
+        "type_line": "Artifact",
+        "oracle_text": "{3}, {T}: Double the amount of each type of unspent mana you have.",
+        "colors": [],
+        "color_identity": [],
+        "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set": "sld",
+        "set_name": "Secret Lair Drop",
+        "set_type": "box",
+        "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+        "collector_number": "1080",
+        "rarity": "rare",
+        "flavor_text": "\"Freedom is the right of all sentient beings.\"\n\u2014Optimus Prime"
+    },
+    {
+        "id": "d2d19d33-407b-42fc-84de-d8a0642723c1",
+        "name": "Centaur",
+        "uri": "https://api.scryfall.com/cards/d2d19d33-407b-42fc-84de-d8a0642723c1",
+        "scryfall_uri": "https://scryfall.com/card/tgk1/10/elemental-centaur?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/back/d/2/d2d19d33-407b-42fc-84de-d8a0642723c1.jpg?1541007138",
+            "normal": "https://cards.scryfall.io/normal/back/d/2/d2d19d33-407b-42fc-84de-d8a0642723c1.jpg?1541007138",
+            "large": "https://cards.scryfall.io/large/back/d/2/d2d19d33-407b-42fc-84de-d8a0642723c1.jpg?1541007138",
+            "png": "https://cards.scryfall.io/png/back/d/2/d2d19d33-407b-42fc-84de-d8a0642723c1.png?1541007138"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Creature \u2014 Centaur",
+        "oracle_text": "",
+        "power": "3",
+        "toughness": "3",
+        "colors": [
+            "G"
+        ],
+        "color_identity": [
+            "G"
+        ],
+        "set_id": "9cabda5f-97cd-4eb3-93b9-83d1e9a191cb",
+        "set": "tgk1",
+        "set_name": "GRN Guild Kit Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/9cabda5f-97cd-4eb3-93b9-83d1e9a191cb",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atgk1&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tgk1?utm_source=api",
+        "collector_number": "10",
+        "rarity": "common"
+    },
+    {
+        "id": "d2d19d33-407b-42fc-84de-d8a0642723c1",
+        "name": "Elemental",
+        "uri": "https://api.scryfall.com/cards/d2d19d33-407b-42fc-84de-d8a0642723c1",
+        "scryfall_uri": "https://scryfall.com/card/tgk1/10/elemental-centaur?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/d/2/d2d19d33-407b-42fc-84de-d8a0642723c1.jpg?1541007138",
+            "normal": "https://cards.scryfall.io/normal/front/d/2/d2d19d33-407b-42fc-84de-d8a0642723c1.jpg?1541007138",
+            "large": "https://cards.scryfall.io/large/front/d/2/d2d19d33-407b-42fc-84de-d8a0642723c1.jpg?1541007138",
+            "png": "https://cards.scryfall.io/png/front/d/2/d2d19d33-407b-42fc-84de-d8a0642723c1.png?1541007138"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Creature \u2014 Elemental",
+        "oracle_text": "Vigilance",
+        "power": "8",
+        "toughness": "8",
+        "colors": [
+            "G",
+            "W"
+        ],
+        "color_identity": [
+            "G",
+            "W"
+        ],
+        "set_id": "9cabda5f-97cd-4eb3-93b9-83d1e9a191cb",
+        "set": "tgk1",
+        "set_name": "GRN Guild Kit Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/9cabda5f-97cd-4eb3-93b9-83d1e9a191cb",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atgk1&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tgk1?utm_source=api",
+        "collector_number": "10",
+        "rarity": "common",
+        "watermark": "selesnya"
+    },
+    {
+        "id": "70f1f745-9fc2-41a6-9d39-fb4964595cf5",
+        "name": "Elemental",
+        "uri": "https://api.scryfall.com/cards/70f1f745-9fc2-41a6-9d39-fb4964595cf5",
+        "scryfall_uri": "https://scryfall.com/card/tust/17/elemental-elemental?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/7/0/70f1f745-9fc2-41a6-9d39-fb4964595cf5.jpg?1571508365",
+            "normal": "https://cards.scryfall.io/normal/front/7/0/70f1f745-9fc2-41a6-9d39-fb4964595cf5.jpg?1571508365",
+            "large": "https://cards.scryfall.io/large/front/7/0/70f1f745-9fc2-41a6-9d39-fb4964595cf5.jpg?1571508365",
+            "png": "https://cards.scryfall.io/png/front/7/0/70f1f745-9fc2-41a6-9d39-fb4964595cf5.png?1571508365"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Creature \u2014 Elemental",
+        "oracle_text": "This creature's power and toughness are each equal to the number of creatures you control.",
+        "power": "*",
+        "toughness": "*",
+        "colors": [
+            "G",
+            "W"
+        ],
+        "color_identity": [
+            "G",
+            "W"
+        ],
+        "set_id": "f494ec08-2e39-4228-bddb-200967e2b109",
+        "set": "tust",
+        "set_name": "Unstable Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/f494ec08-2e39-4228-bddb-200967e2b109",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atust&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tust?utm_source=api",
+        "collector_number": "17",
+        "rarity": "common"
+    },
+    {
+        "id": "72b45263-d4e9-4a53-a78b-be651e18b615",
+        "name": "Elemental",
+        "uri": "https://api.scryfall.com/cards/72b45263-d4e9-4a53-a78b-be651e18b615",
+        "scryfall_uri": "https://scryfall.com/card/tust/11/elemental-elemental?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/7/2/72b45263-d4e9-4a53-a78b-be651e18b615.jpg?1571508472",
+            "normal": "https://cards.scryfall.io/normal/front/7/2/72b45263-d4e9-4a53-a78b-be651e18b615.jpg?1571508472",
+            "large": "https://cards.scryfall.io/large/front/7/2/72b45263-d4e9-4a53-a78b-be651e18b615.jpg?1571508472",
+            "png": "https://cards.scryfall.io/png/front/7/2/72b45263-d4e9-4a53-a78b-be651e18b615.png?1571508472"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Creature \u2014 Elemental",
+        "oracle_text": "",
+        "power": "1",
+        "toughness": "1",
+        "colors": [
+            "R"
+        ],
+        "color_identity": [
+            "R"
+        ],
+        "set_id": "f494ec08-2e39-4228-bddb-200967e2b109",
+        "set": "tust",
+        "set_name": "Unstable Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/f494ec08-2e39-4228-bddb-200967e2b109",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atust&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tust?utm_source=api",
+        "collector_number": "11",
+        "rarity": "common"
+    },
+    {
+        "id": "b96d6ea4-a3a4-4e33-be97-b3767f2bb631",
+        "name": "Etali, Primal Storm",
+        "uri": "https://api.scryfall.com/cards/b96d6ea4-a3a4-4e33-be97-b3767f2bb63a",
+        "scryfall_uri": "https://scryfall.com/card/sld/1123/etali-primal-storm-etali-primal-storm?utm_source=api",
+        "layout": "normal",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/back/b/9/b96d6ea4-a3a4-4e33-be97-b3767f2bb63a.jpg?1670465384",
+            "normal": "https://cards.scryfall.io/normal/back/b/9/b96d6ea4-a3a4-4e33-be97-b3767f2bb63a.jpg?1670465384",
+            "large": "https://cards.scryfall.io/large/back/b/9/b96d6ea4-a3a4-4e33-be97-b3767f2bb63a.jpg?1670465384",
+            "png": "https://cards.scryfall.io/png/back/b/9/b96d6ea4-a3a4-4e33-be97-b3767f2bb63a.png?1670465384"
+        },
+        "mana_cost": "{4}{R}{R}",
+        "cmc": 6.0,
+        "type_line": "Legendary Creature \u2014 Elder Dinosaur",
+        "oracle_text": "Whenever Etali, Primal Storm attacks, exile the top card of each player's library, then you may cast any number of spells from among those cards without paying their mana costs.",
+        "power": "6",
+        "toughness": "6",
+        "colors": [
+            "R"
+        ],
+        "color_identity": [
+            "R"
+        ],
+        "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set": "sld",
+        "set_name": "Secret Lair Drop",
+        "set_type": "box",
+        "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+        "collector_number": "1123",
+        "rarity": "rare"
+    },
+    {
+        "id": "b96d6ea4-a3a4-4e33-be97-b3767f2bb632",
+        "name": "Etali, Primal Storm",
+        "uri": "https://api.scryfall.com/cards/b96d6ea4-a3a4-4e33-be97-b3767f2bb63a",
+        "scryfall_uri": "https://scryfall.com/card/sld/1123/etali-primal-storm-etali-primal-storm?utm_source=api",
+        "layout": "normal",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/b/9/b96d6ea4-a3a4-4e33-be97-b3767f2bb63a.jpg?1670465384",
+            "normal": "https://cards.scryfall.io/normal/front/b/9/b96d6ea4-a3a4-4e33-be97-b3767f2bb63a.jpg?1670465384",
+            "large": "https://cards.scryfall.io/large/front/b/9/b96d6ea4-a3a4-4e33-be97-b3767f2bb63a.jpg?1670465384",
+            "png": "https://cards.scryfall.io/png/front/b/9/b96d6ea4-a3a4-4e33-be97-b3767f2bb63a.png?1670465384"
+        },
+        "mana_cost": "{4}{R}{R}",
+        "cmc": 6.0,
+        "type_line": "Legendary Creature \u2014 Elder Dinosaur",
+        "oracle_text": "Whenever Etali, Primal Storm attacks, exile the top card of each player's library, then you may cast any number of spells from among those cards without paying their mana costs.",
+        "power": "6",
+        "toughness": "6",
+        "colors": [
+            "R"
+        ],
+        "color_identity": [
+            "R"
+        ],
+        "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set": "sld",
+        "set_name": "Secret Lair Drop",
+        "set_type": "box",
+        "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+        "collector_number": "1123",
+        "rarity": "rare"
+    },
+    {
+        "id": "4d227cd3-ebfe-4dd3-929a-4f8ff7c89811",
+        "name": "Blightsteel Colossus",
+        "flavor_name": "Megatron",
+        "uri": "https://api.scryfall.com/cards/4d227cd3-ebfe-4dd3-929a-4f8ff7c8981e",
+        "scryfall_uri": "https://scryfall.com/card/sld/1079/blightsteel-colossus-blightsteel-colossus?utm_source=api",
+        "layout": "normal",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/back/4/d/4d227cd3-ebfe-4dd3-929a-4f8ff7c8981e.jpg?1675183080",
+            "normal": "https://cards.scryfall.io/normal/back/4/d/4d227cd3-ebfe-4dd3-929a-4f8ff7c8981e.jpg?1675183080",
+            "large": "https://cards.scryfall.io/large/back/4/d/4d227cd3-ebfe-4dd3-929a-4f8ff7c8981e.jpg?1675183080",
+            "png": "https://cards.scryfall.io/png/back/4/d/4d227cd3-ebfe-4dd3-929a-4f8ff7c8981e.png?1675183080"
+        },
+        "mana_cost": "{12}",
+        "cmc": 12.0,
+        "type_line": "Artifact Creature \u2014 Phyrexian Golem",
+        "oracle_text": "Trample, infect, indestructible\nIf Blightsteel Colossus would be put into a graveyard from anywhere, reveal Blightsteel Colossus and shuffle it into its owner's library instead.",
+        "power": "11",
+        "toughness": "11",
+        "colors": [],
+        "color_identity": [],
+        "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set": "sld",
+        "set_name": "Secret Lair Drop",
+        "set_type": "box",
+        "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+        "collector_number": "1079",
+        "rarity": "mythic"
+    },
+    {
+        "id": "4d227cd3-ebfe-4dd3-929a-4f8ff7c89812",
+        "name": "Blightsteel Colossus",
+        "flavor_name": "Megatron",
+        "uri": "https://api.scryfall.com/cards/4d227cd3-ebfe-4dd3-929a-4f8ff7c8981e",
+        "scryfall_uri": "https://scryfall.com/card/sld/1079/blightsteel-colossus-blightsteel-colossus?utm_source=api",
+        "layout": "normal",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/4/d/4d227cd3-ebfe-4dd3-929a-4f8ff7c8981e.jpg?1675183080",
+            "normal": "https://cards.scryfall.io/normal/front/4/d/4d227cd3-ebfe-4dd3-929a-4f8ff7c8981e.jpg?1675183080",
+            "large": "https://cards.scryfall.io/large/front/4/d/4d227cd3-ebfe-4dd3-929a-4f8ff7c8981e.jpg?1675183080",
+            "png": "https://cards.scryfall.io/png/front/4/d/4d227cd3-ebfe-4dd3-929a-4f8ff7c8981e.png?1675183080"
+        },
+        "mana_cost": "{12}",
+        "cmc": 12.0,
+        "type_line": "Artifact Creature \u2014 Phyrexian Golem",
+        "oracle_text": "Trample, infect, indestructible\nIf Blightsteel Colossus would be put into a graveyard from anywhere, reveal Blightsteel Colossus and shuffle it into its owner's library instead.",
+        "power": "11",
+        "toughness": "11",
+        "colors": [],
+        "color_identity": [],
+        "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set": "sld",
+        "set_name": "Secret Lair Drop",
+        "set_type": "box",
+        "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+        "collector_number": "1079",
+        "rarity": "mythic"
+    },
+    {
+        "id": "0489be0d-2117-46a8-97ab-31fe480685e1",
+        "name": "Ghalta, Primal Hunger",
+        "uri": "https://api.scryfall.com/cards/0489be0d-2117-46a8-97ab-31fe480685e2",
+        "scryfall_uri": "https://scryfall.com/card/sld/1124/ghalta-primal-hunger-ghalta-primal-hunger?utm_source=api",
+        "layout": "normal",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/back/0/4/0489be0d-2117-46a8-97ab-31fe480685e2.jpg?1670465402",
+            "normal": "https://cards.scryfall.io/normal/back/0/4/0489be0d-2117-46a8-97ab-31fe480685e2.jpg?1670465402",
+            "large": "https://cards.scryfall.io/large/back/0/4/0489be0d-2117-46a8-97ab-31fe480685e2.jpg?1670465402",
+            "png": "https://cards.scryfall.io/png/back/0/4/0489be0d-2117-46a8-97ab-31fe480685e2.png?1670465402"
+        },
+        "mana_cost": "{10}{G}{G}",
+        "cmc": 12.0,
+        "type_line": "Legendary Creature \u2014 Elder Dinosaur",
+        "oracle_text": "This spell costs {X} less to cast, where X is the total power of creatures you control.\nTrample",
+        "power": "12",
+        "toughness": "12",
+        "colors": [
+            "G"
+        ],
+        "color_identity": [
+            "G"
+        ],
+        "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set": "sld",
+        "set_name": "Secret Lair Drop",
+        "set_type": "box",
+        "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+        "collector_number": "1124",
+        "rarity": "rare"
+    },
+    {
+        "id": "0489be0d-2117-46a8-97ab-31fe480685e2",
+        "name": "Ghalta, Primal Hunger",
+        "uri": "https://api.scryfall.com/cards/0489be0d-2117-46a8-97ab-31fe480685e2",
+        "scryfall_uri": "https://scryfall.com/card/sld/1124/ghalta-primal-hunger-ghalta-primal-hunger?utm_source=api",
+        "layout": "normal",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/0/4/0489be0d-2117-46a8-97ab-31fe480685e2.jpg?1670465402",
+            "normal": "https://cards.scryfall.io/normal/front/0/4/0489be0d-2117-46a8-97ab-31fe480685e2.jpg?1670465402",
+            "large": "https://cards.scryfall.io/large/front/0/4/0489be0d-2117-46a8-97ab-31fe480685e2.jpg?1670465402",
+            "png": "https://cards.scryfall.io/png/front/0/4/0489be0d-2117-46a8-97ab-31fe480685e2.png?1670465402"
+        },
+        "mana_cost": "{10}{G}{G}",
+        "cmc": 12.0,
+        "type_line": "Legendary Creature \u2014 Elder Dinosaur",
+        "oracle_text": "This spell costs {X} less to cast, where X is the total power of creatures you control.\nTrample",
+        "power": "12",
+        "toughness": "12",
+        "colors": [
+            "G"
+        ],
+        "color_identity": [
+            "G"
+        ],
+        "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set": "sld",
+        "set_name": "Secret Lair Drop",
+        "set_type": "box",
+        "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+        "collector_number": "1124",
+        "rarity": "rare"
+    },
+    {
+        "id": "b72fe493-f712-45b3-9af2-7f96a31cad85",
+        "name": "Blood",
+        "uri": "https://api.scryfall.com/cards/b72fe493-f712-45b3-9af2-7f96a31cad85",
+        "scryfall_uri": "https://scryfall.com/card/q07/T12/goblin-blood?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/back/b/7/b72fe493-f712-45b3-9af2-7f96a31cad85.jpg?1666380536",
+            "normal": "https://cards.scryfall.io/normal/back/b/7/b72fe493-f712-45b3-9af2-7f96a31cad85.jpg?1666380536",
+            "large": "https://cards.scryfall.io/large/back/b/7/b72fe493-f712-45b3-9af2-7f96a31cad85.jpg?1666380536",
+            "png": "https://cards.scryfall.io/png/back/b/7/b72fe493-f712-45b3-9af2-7f96a31cad85.png?1666380536"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Artifact \u2014 Blood",
+        "oracle_text": "{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.",
+        "colors": [],
+        "color_identity": [],
+        "set_id": "05fccc6b-1c39-46b6-a492-ac9383a5abfe",
+        "set": "q07",
+        "set_name": "Challenger Decks 2022",
+        "set_type": "box",
+        "set_uri": "https://api.scryfall.com/sets/05fccc6b-1c39-46b6-a492-ac9383a5abfe",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aq07&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/q07?utm_source=api",
+        "collector_number": "T12",
+        "rarity": "common"
+    },
+    {
+        "id": "b72fe493-f712-45b3-9af2-7f96a31cad85",
+        "name": "Goblin",
+        "uri": "https://api.scryfall.com/cards/b72fe493-f712-45b3-9af2-7f96a31cad85",
+        "scryfall_uri": "https://scryfall.com/card/q07/T12/goblin-blood?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/b/7/b72fe493-f712-45b3-9af2-7f96a31cad85.jpg?1666380536",
+            "normal": "https://cards.scryfall.io/normal/front/b/7/b72fe493-f712-45b3-9af2-7f96a31cad85.jpg?1666380536",
+            "large": "https://cards.scryfall.io/large/front/b/7/b72fe493-f712-45b3-9af2-7f96a31cad85.jpg?1666380536",
+            "png": "https://cards.scryfall.io/png/front/b/7/b72fe493-f712-45b3-9af2-7f96a31cad85.png?1666380536"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Creature \u2014 Goblin",
+        "oracle_text": "",
+        "power": "1",
+        "toughness": "1",
+        "colors": [
+            "R"
+        ],
+        "color_identity": [
+            "R"
+        ],
+        "set_id": "05fccc6b-1c39-46b6-a492-ac9383a5abfe",
+        "set": "q07",
+        "set_name": "Challenger Decks 2022",
+        "set_type": "box",
+        "set_uri": "https://api.scryfall.com/sets/05fccc6b-1c39-46b6-a492-ac9383a5abfe",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aq07&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/q07?utm_source=api",
+        "collector_number": "T12",
+        "rarity": "common"
+    },
+    {
+        "id": "3a98c51f-c55c-4bd9-853b-65b8bad5a29f",
+        "name": "Wolf",
+        "uri": "https://api.scryfall.com/cards/3a98c51f-c55c-4bd9-853b-65b8bad5a29f",
+        "scryfall_uri": "https://scryfall.com/card/f12/1a/human-wolf?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/back/3/a/3a98c51f-c55c-4bd9-853b-65b8bad5a29f.jpg?1639374040",
+            "normal": "https://cards.scryfall.io/normal/back/3/a/3a98c51f-c55c-4bd9-853b-65b8bad5a29f.jpg?1639374040",
+            "large": "https://cards.scryfall.io/large/back/3/a/3a98c51f-c55c-4bd9-853b-65b8bad5a29f.jpg?1639374040",
+            "png": "https://cards.scryfall.io/png/back/3/a/3a98c51f-c55c-4bd9-853b-65b8bad5a29f.png?1639374040"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Creature \u2014 Wolf",
+        "oracle_text": "",
+        "power": "2",
+        "toughness": "2",
+        "colors": [
+            "G"
+        ],
+        "color_identity": [
+            "G"
+        ],
+        "set_id": "6df07fcb-8b2a-43a6-82bc-97e92312a921",
+        "set": "f12",
+        "set_name": "Friday Night Magic 2012",
+        "set_type": "promo",
+        "set_uri": "https://api.scryfall.com/sets/6df07fcb-8b2a-43a6-82bc-97e92312a921",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Af12&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/f12?utm_source=api",
+        "collector_number": "1a",
+        "rarity": "common"
+    },
+    {
+        "id": "3a98c51f-c55c-4bd9-853b-65b8bad5a29f",
+        "name": "Human",
+        "uri": "https://api.scryfall.com/cards/3a98c51f-c55c-4bd9-853b-65b8bad5a29f",
+        "scryfall_uri": "https://scryfall.com/card/f12/1a/human-wolf?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/3/a/3a98c51f-c55c-4bd9-853b-65b8bad5a29f.jpg?1639374040",
+            "normal": "https://cards.scryfall.io/normal/front/3/a/3a98c51f-c55c-4bd9-853b-65b8bad5a29f.jpg?1639374040",
+            "large": "https://cards.scryfall.io/large/front/3/a/3a98c51f-c55c-4bd9-853b-65b8bad5a29f.jpg?1639374040",
+            "png": "https://cards.scryfall.io/png/front/3/a/3a98c51f-c55c-4bd9-853b-65b8bad5a29f.png?1639374040"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Creature \u2014 Human",
+        "oracle_text": "",
+        "power": "1",
+        "toughness": "1",
+        "colors": [
+            "W"
+        ],
+        "color_identity": [
+            "W"
+        ],
+        "set_id": "6df07fcb-8b2a-43a6-82bc-97e92312a921",
+        "set": "f12",
+        "set_name": "Friday Night Magic 2012",
+        "set_type": "promo",
+        "set_uri": "https://api.scryfall.com/sets/6df07fcb-8b2a-43a6-82bc-97e92312a921",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Af12&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/f12?utm_source=api",
+        "collector_number": "1a",
+        "rarity": "common"
+    },
+    {
+        "id": "d0f953c3-09b9-42c7-816d-59fb0f8b541c",
+        "name": "Incubator",
+        "uri": "https://api.scryfall.com/cards/d0f953c3-09b9-42c7-816d-59fb0f8b541c",
+        "scryfall_uri": "https://scryfall.com/card/tmom/17/incubator-phyrexian?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/d/0/d0f953c3-09b9-42c7-816d-59fb0f8b541c.jpg?1683557191",
+            "normal": "https://cards.scryfall.io/normal/front/d/0/d0f953c3-09b9-42c7-816d-59fb0f8b541c.jpg?1683557191",
+            "large": "https://cards.scryfall.io/large/front/d/0/d0f953c3-09b9-42c7-816d-59fb0f8b541c.jpg?1683557191",
+            "png": "https://cards.scryfall.io/png/front/d/0/d0f953c3-09b9-42c7-816d-59fb0f8b541c.png?1683557191"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Artifact \u2014 Incubator",
+        "oracle_text": "{2}: Transform this artifact.",
+        "colors": [],
+        "color_identity": [],
+        "set_id": "2c73a39a-a359-41e7-879a-3857234f2a4b",
+        "set": "tmom",
+        "set_name": "March of the Machine Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/2c73a39a-a359-41e7-879a-3857234f2a4b",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atmom&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tmom?utm_source=api",
+        "collector_number": "17",
+        "rarity": "common"
+    },
+    {
+        "id": "d0f953c3-09b9-42c7-816d-59fb0f8b541c",
+        "name": "Phyrexian",
+        "uri": "https://api.scryfall.com/cards/d0f953c3-09b9-42c7-816d-59fb0f8b541c",
+        "scryfall_uri": "https://scryfall.com/card/tmom/17/incubator-phyrexian?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/back/d/0/d0f953c3-09b9-42c7-816d-59fb0f8b541c.jpg?1683557191",
+            "normal": "https://cards.scryfall.io/normal/back/d/0/d0f953c3-09b9-42c7-816d-59fb0f8b541c.jpg?1683557191",
+            "large": "https://cards.scryfall.io/large/back/d/0/d0f953c3-09b9-42c7-816d-59fb0f8b541c.jpg?1683557191",
+            "png": "https://cards.scryfall.io/png/back/d/0/d0f953c3-09b9-42c7-816d-59fb0f8b541c.png?1683557191"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Artifact Creature \u2014 Phyrexian",
+        "oracle_text": "",
+        "power": "0",
+        "toughness": "0",
+        "colors": [],
+        "color_identity": [],
+        "set_id": "2c73a39a-a359-41e7-879a-3857234f2a4b",
+        "set": "tmom",
+        "set_name": "March of the Machine Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/2c73a39a-a359-41e7-879a-3857234f2a4b",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atmom&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tmom?utm_source=api",
+        "collector_number": "17",
+        "rarity": "common"
+    },
+    {
+        "id": "cca1decc-90fd-4df8-997e-52f8789032f8",
+        "name": "Phyrexian",
+        "uri": "https://api.scryfall.com/cards/cca1decc-90fd-4df8-997e-52f8789032f8",
+        "scryfall_uri": "https://scryfall.com/card/tmom/16/incubator-phyrexian?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/back/c/c/cca1decc-90fd-4df8-997e-52f8789032f8.jpg?1682207112",
+            "normal": "https://cards.scryfall.io/normal/back/c/c/cca1decc-90fd-4df8-997e-52f8789032f8.jpg?1682207112",
+            "large": "https://cards.scryfall.io/large/back/c/c/cca1decc-90fd-4df8-997e-52f8789032f8.jpg?1682207112",
+            "png": "https://cards.scryfall.io/png/back/c/c/cca1decc-90fd-4df8-997e-52f8789032f8.png?1682207112"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Artifact Creature \u2014 Phyrexian",
+        "oracle_text": "",
+        "power": "0",
+        "toughness": "0",
+        "colors": [],
+        "color_identity": [],
+        "set_id": "2c73a39a-a359-41e7-879a-3857234f2a4b",
+        "set": "tmom",
+        "set_name": "March of the Machine Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/2c73a39a-a359-41e7-879a-3857234f2a4b",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atmom&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tmom?utm_source=api",
+        "collector_number": "16",
+        "rarity": "common"
+    },
+    {
+        "id": "2c5ed737-657b-43bf-b222-941da7579a4a",
+        "name": "Phyrexian",
+        "uri": "https://api.scryfall.com/cards/2c5ed737-657b-43bf-b222-941da7579a4a",
+        "scryfall_uri": "https://scryfall.com/card/tmom/18/incubator-phyrexian?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/back/2/c/2c5ed737-657b-43bf-b222-941da7579a4a.jpg?1683557214",
+            "normal": "https://cards.scryfall.io/normal/back/2/c/2c5ed737-657b-43bf-b222-941da7579a4a.jpg?1683557214",
+            "large": "https://cards.scryfall.io/large/back/2/c/2c5ed737-657b-43bf-b222-941da7579a4a.jpg?1683557214",
+            "png": "https://cards.scryfall.io/png/back/2/c/2c5ed737-657b-43bf-b222-941da7579a4a.png?1683557214"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Artifact Creature \u2014 Phyrexian",
+        "oracle_text": "",
+        "power": "0",
+        "toughness": "0",
+        "colors": [],
+        "color_identity": [],
+        "set_id": "2c73a39a-a359-41e7-879a-3857234f2a4b",
+        "set": "tmom",
+        "set_name": "March of the Machine Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/2c73a39a-a359-41e7-879a-3857234f2a4b",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atmom&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tmom?utm_source=api",
+        "collector_number": "18",
+        "rarity": "common"
+    },
+    {
+        "id": "9f63277b-e139-46c8-b9e3-0cfb647f44c1",
+        "name": "Krark's Thumb",
+        "uri": "https://api.scryfall.com/cards/9f63277b-e139-46c8-b9e3-0cfb647f44cc",
+        "scryfall_uri": "https://scryfall.com/card/sld/383/krarks-thumb-krarks-thumb?utm_source=api",
+        "layout": "normal",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/back/9/f/9f63277b-e139-46c8-b9e3-0cfb647f44cc.jpg?1670031752",
+            "normal": "https://cards.scryfall.io/normal/back/9/f/9f63277b-e139-46c8-b9e3-0cfb647f44cc.jpg?1670031752",
+            "large": "https://cards.scryfall.io/large/back/9/f/9f63277b-e139-46c8-b9e3-0cfb647f44cc.jpg?1670031752",
+            "png": "https://cards.scryfall.io/png/back/9/f/9f63277b-e139-46c8-b9e3-0cfb647f44cc.png?1670031752"
+        },
+        "mana_cost": "{2}",
+        "cmc": 2.0,
+        "type_line": "Legendary Artifact",
+        "oracle_text": "If you would flip a coin, instead flip two coins and ignore one.",
+        "colors": [],
+        "color_identity": [],
+        "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set": "sld",
+        "set_name": "Secret Lair Drop",
+        "set_type": "box",
+        "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+        "collector_number": "383",
+        "rarity": "rare",
+        "flavor_text": "The thumb is said to bring its owner good luck up until the end of their life. That duration has yet to be specified."
+    },
+    {
+        "id": "9f63277b-e139-46c8-b9e3-0cfb647f44c2",
+        "name": "Krark's Thumb",
+        "uri": "https://api.scryfall.com/cards/9f63277b-e139-46c8-b9e3-0cfb647f44cc",
+        "scryfall_uri": "https://scryfall.com/card/sld/383/krarks-thumb-krarks-thumb?utm_source=api",
+        "layout": "normal",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/9/f/9f63277b-e139-46c8-b9e3-0cfb647f44cc.jpg?1670031752",
+            "normal": "https://cards.scryfall.io/normal/front/9/f/9f63277b-e139-46c8-b9e3-0cfb647f44cc.jpg?1670031752",
+            "large": "https://cards.scryfall.io/large/front/9/f/9f63277b-e139-46c8-b9e3-0cfb647f44cc.jpg?1670031752",
+            "png": "https://cards.scryfall.io/png/front/9/f/9f63277b-e139-46c8-b9e3-0cfb647f44cc.png?1670031752"
+        },
+        "mana_cost": "{2}",
+        "cmc": 2.0,
+        "type_line": "Legendary Artifact",
+        "oracle_text": "If you would flip a coin, instead flip two coins and ignore one.",
+        "colors": [],
+        "color_identity": [],
+        "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set": "sld",
+        "set_name": "Secret Lair Drop",
+        "set_type": "box",
+        "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+        "collector_number": "383",
+        "rarity": "rare",
+        "flavor_text": "As a child, Slobad fashioned a music box out of the wayward digit. Its simple tune was his sole companion on many lonely nights."
+    },
+    {
+        "id": "b10441dd-9029-4f95-9566-d3771ebd36b1",
+        "name": "Mowu",
+        "uri": "https://api.scryfall.com/cards/b10441dd-9029-4f95-9566-d3771ebd36bd",
+        "scryfall_uri": "https://scryfall.com/card/gs1/T1/mowu-mowu?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/back/b/1/b10441dd-9029-4f95-9566-d3771ebd36bd.jpg?1646537364",
+            "normal": "https://cards.scryfall.io/normal/back/b/1/b10441dd-9029-4f95-9566-d3771ebd36bd.jpg?1646537364",
+            "large": "https://cards.scryfall.io/large/back/b/1/b10441dd-9029-4f95-9566-d3771ebd36bd.jpg?1646537364",
+            "png": "https://cards.scryfall.io/png/back/b/1/b10441dd-9029-4f95-9566-d3771ebd36bd.png?1646537364"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Legendary Creature \u2014 Dog",
+        "oracle_text": "",
+        "power": "3",
+        "toughness": "3",
+        "colors": [
+            "G"
+        ],
+        "color_identity": [
+            "G"
+        ],
+        "set_id": "19c285e9-68e0-45e1-b82b-ac6051eb43be",
+        "set": "gs1",
+        "set_name": "Global Series Jiang Yanggu & Mu Yanling",
+        "set_type": "duel_deck",
+        "set_uri": "https://api.scryfall.com/sets/19c285e9-68e0-45e1-b82b-ac6051eb43be",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ags1&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/gs1?utm_source=api",
+        "collector_number": "T1",
+        "rarity": "common"
+    },
+    {
+        "id": "b10441dd-9029-4f95-9566-d3771ebd36b2",
+        "name": "Mowu",
+        "uri": "https://api.scryfall.com/cards/b10441dd-9029-4f95-9566-d3771ebd36bd",
+        "scryfall_uri": "https://scryfall.com/card/gs1/T1/mowu-mowu?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/b/1/b10441dd-9029-4f95-9566-d3771ebd36bd.jpg?1646537364",
+            "normal": "https://cards.scryfall.io/normal/front/b/1/b10441dd-9029-4f95-9566-d3771ebd36bd.jpg?1646537364",
+            "large": "https://cards.scryfall.io/large/front/b/1/b10441dd-9029-4f95-9566-d3771ebd36bd.jpg?1646537364",
+            "png": "https://cards.scryfall.io/png/front/b/1/b10441dd-9029-4f95-9566-d3771ebd36bd.png?1646537364"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Legendary Creature \u2014 Dog",
+        "oracle_text": "",
+        "power": "3",
+        "toughness": "3",
+        "colors": [
+            "G"
+        ],
+        "color_identity": [
+            "G"
+        ],
+        "set_id": "19c285e9-68e0-45e1-b82b-ac6051eb43be",
+        "set": "gs1",
+        "set_name": "Global Series Jiang Yanggu & Mu Yanling",
+        "set_type": "duel_deck",
+        "set_uri": "https://api.scryfall.com/sets/19c285e9-68e0-45e1-b82b-ac6051eb43be",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ags1&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/gs1?utm_source=api",
+        "collector_number": "T1",
+        "rarity": "common"
+    },
+    {
+        "id": "94eea6e3-20bc-4dab-90ba-3113c120fb91",
+        "name": "Okaun, Eye of Chaos",
+        "uri": "https://api.scryfall.com/cards/94eea6e3-20bc-4dab-90ba-3113c120fb90",
+        "scryfall_uri": "https://scryfall.com/card/sld/380/okaun-eye-of-chaos-okaun-eye-of-chaos?utm_source=api",
+        "layout": "normal",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/back/9/4/94eea6e3-20bc-4dab-90ba-3113c120fb90.jpg?1670031714",
+            "normal": "https://cards.scryfall.io/normal/back/9/4/94eea6e3-20bc-4dab-90ba-3113c120fb90.jpg?1670031714",
+            "large": "https://cards.scryfall.io/large/back/9/4/94eea6e3-20bc-4dab-90ba-3113c120fb90.jpg?1670031714",
+            "png": "https://cards.scryfall.io/png/back/9/4/94eea6e3-20bc-4dab-90ba-3113c120fb90.png?1670031714"
+        },
+        "mana_cost": "{4}{R}",
+        "cmc": 5.0,
+        "type_line": "Legendary Creature \u2014 Cyclops Berserker",
+        "oracle_text": "Partner with Zndrsplt, Eye of Wisdom (When this creature enters the battlefield, target player may put Zndrsplt into their hand from their library, then shuffle.)\nAt the beginning of combat on your turn, flip a coin until you lose a flip.\nWhenever a player wins a coin flip, double Okaun's power and toughness until end of turn.",
+        "power": "3",
+        "toughness": "3",
+        "colors": [
+            "R"
+        ],
+        "color_identity": [
+            "R"
+        ],
+        "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set": "sld",
+        "set_name": "Secret Lair Drop",
+        "set_type": "box",
+        "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+        "collector_number": "380",
+        "rarity": "rare"
+    },
+    {
+        "id": "94eea6e3-20bc-4dab-90ba-3113c120fb92",
+        "name": "Okaun, Eye of Chaos",
+        "uri": "https://api.scryfall.com/cards/94eea6e3-20bc-4dab-90ba-3113c120fb90",
+        "scryfall_uri": "https://scryfall.com/card/sld/380/okaun-eye-of-chaos-okaun-eye-of-chaos?utm_source=api",
+        "layout": "normal",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/9/4/94eea6e3-20bc-4dab-90ba-3113c120fb90.jpg?1670031714",
+            "normal": "https://cards.scryfall.io/normal/front/9/4/94eea6e3-20bc-4dab-90ba-3113c120fb90.jpg?1670031714",
+            "large": "https://cards.scryfall.io/large/front/9/4/94eea6e3-20bc-4dab-90ba-3113c120fb90.jpg?1670031714",
+            "png": "https://cards.scryfall.io/png/front/9/4/94eea6e3-20bc-4dab-90ba-3113c120fb90.png?1670031714"
+        },
+        "mana_cost": "{4}{R}",
+        "cmc": 5.0,
+        "type_line": "Legendary Creature \u2014 Cyclops Berserker",
+        "oracle_text": "Partner with Zndrsplt, Eye of Wisdom (When this creature enters the battlefield, target player may put Zndrsplt into their hand from their library, then shuffle.)\nAt the beginning of combat on your turn, flip a coin until you lose a flip.\nWhenever a player wins a coin flip, double Okaun's power and toughness until end of turn.",
+        "power": "3",
+        "toughness": "3",
+        "colors": [
+            "R"
+        ],
+        "color_identity": [
+            "R"
+        ],
+        "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set": "sld",
+        "set_name": "Secret Lair Drop",
+        "set_type": "box",
+        "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+        "collector_number": "380",
+        "rarity": "rare"
+    },
+    {
+        "id": "8421ad46-dc7f-4b66-800b-e41c30835301",
+        "name": "Okaun, Eye of Chaos",
+        "uri": "https://api.scryfall.com/cards/8421ad46-dc7f-4b66-800b-e41c30835300",
+        "scryfall_uri": "https://scryfall.com/card/sld/380%E2%98%85/okaun-eye-of-chaos-okaun-eye-of-chaos?utm_source=api",
+        "layout": "normal",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/back/8/4/8421ad46-dc7f-4b66-800b-e41c30835300.jpg?1670031702",
+            "normal": "https://cards.scryfall.io/normal/back/8/4/8421ad46-dc7f-4b66-800b-e41c30835300.jpg?1670031702",
+            "large": "https://cards.scryfall.io/large/back/8/4/8421ad46-dc7f-4b66-800b-e41c30835300.jpg?1670031702",
+            "png": "https://cards.scryfall.io/png/back/8/4/8421ad46-dc7f-4b66-800b-e41c30835300.png?1670031702"
+        },
+        "mana_cost": "{4}{R}",
+        "cmc": 5.0,
+        "type_line": "Legendary Creature \u2014 Cyclops Berserker",
+        "oracle_text": "Partner with Zndrsplt, Eye of Wisdom (When this creature enters the battlefield, target player may put Zndrsplt into their hand from their library, then shuffle.)\nAt the beginning of combat on your turn, flip a coin until you lose a flip.\nWhenever a player wins a coin flip, double Okaun's power and toughness until end of turn.",
+        "power": "3",
+        "toughness": "3",
+        "colors": [
+            "R"
+        ],
+        "color_identity": [
+            "R"
+        ],
+        "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set": "sld",
+        "set_name": "Secret Lair Drop",
+        "set_type": "box",
+        "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+        "collector_number": "380\u2605",
+        "rarity": "rare"
+    },
+    {
+        "id": "8421ad46-dc7f-4b66-800b-e41c30835302",
+        "name": "Okaun, Eye of Chaos",
+        "uri": "https://api.scryfall.com/cards/8421ad46-dc7f-4b66-800b-e41c30835300",
+        "scryfall_uri": "https://scryfall.com/card/sld/380%E2%98%85/okaun-eye-of-chaos-okaun-eye-of-chaos?utm_source=api",
+        "layout": "normal",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/8/4/8421ad46-dc7f-4b66-800b-e41c30835300.jpg?1670031702",
+            "normal": "https://cards.scryfall.io/normal/front/8/4/8421ad46-dc7f-4b66-800b-e41c30835300.jpg?1670031702",
+            "large": "https://cards.scryfall.io/large/front/8/4/8421ad46-dc7f-4b66-800b-e41c30835300.jpg?1670031702",
+            "png": "https://cards.scryfall.io/png/front/8/4/8421ad46-dc7f-4b66-800b-e41c30835300.png?1670031702"
+        },
+        "mana_cost": "{4}{R}",
+        "cmc": 5.0,
+        "type_line": "Legendary Creature \u2014 Cyclops Berserker",
+        "oracle_text": "Partner with Zndrsplt, Eye of Wisdom (When this creature enters the battlefield, target player may put Zndrsplt into their hand from their library, then shuffle.)\nAt the beginning of combat on your turn, flip a coin until you lose a flip.\nWhenever a player wins a coin flip, double Okaun's power and toughness until end of turn.",
+        "power": "3",
+        "toughness": "3",
+        "colors": [
+            "R"
+        ],
+        "color_identity": [
+            "R"
+        ],
+        "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set": "sld",
+        "set_name": "Secret Lair Drop",
+        "set_type": "box",
+        "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+        "collector_number": "380\u2605",
+        "rarity": "rare"
+    },
+    {
+        "id": "46bf5e2b-869f-480e-ac37-1bdb40a92f8c",
+        "name": "Pirate",
+        "uri": "https://api.scryfall.com/cards/46bf5e2b-869f-480e-ac37-1bdb40a92f8c",
+        "scryfall_uri": "https://scryfall.com/card/f17/12/pirate-treasure?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/4/6/46bf5e2b-869f-480e-ac37-1bdb40a92f8c.jpg?1665776397",
+            "normal": "https://cards.scryfall.io/normal/front/4/6/46bf5e2b-869f-480e-ac37-1bdb40a92f8c.jpg?1665776397",
+            "large": "https://cards.scryfall.io/large/front/4/6/46bf5e2b-869f-480e-ac37-1bdb40a92f8c.jpg?1665776397",
+            "png": "https://cards.scryfall.io/png/front/4/6/46bf5e2b-869f-480e-ac37-1bdb40a92f8c.png?1665776397"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Creature \u2014 Pirate",
+        "oracle_text": "Menace",
+        "power": "2",
+        "toughness": "2",
+        "colors": [
+            "B"
+        ],
+        "color_identity": [
+            "B"
+        ],
+        "set_id": "690dae5c-2de4-4071-b77c-19883791f987",
+        "set": "f17",
+        "set_name": "Friday Night Magic 2017",
+        "set_type": "promo",
+        "set_uri": "https://api.scryfall.com/sets/690dae5c-2de4-4071-b77c-19883791f987",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Af17&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/f17?utm_source=api",
+        "collector_number": "12",
+        "rarity": "common"
+    },
+    {
+        "id": "3e3f0bcd-0796-494d-bf51-94b33c1671e1",
+        "name": "Propaganda",
+        "uri": "https://api.scryfall.com/cards/3e3f0bcd-0796-494d-bf51-94b33c1671e9",
+        "scryfall_uri": "https://scryfall.com/card/sld/381/propaganda-propaganda?utm_source=api",
+        "layout": "normal",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/back/3/e/3e3f0bcd-0796-494d-bf51-94b33c1671e9.jpg?1670031727",
+            "normal": "https://cards.scryfall.io/normal/back/3/e/3e3f0bcd-0796-494d-bf51-94b33c1671e9.jpg?1670031727",
+            "large": "https://cards.scryfall.io/large/back/3/e/3e3f0bcd-0796-494d-bf51-94b33c1671e9.jpg?1670031727",
+            "png": "https://cards.scryfall.io/png/back/3/e/3e3f0bcd-0796-494d-bf51-94b33c1671e9.png?1670031727"
+        },
+        "mana_cost": "{2}{U}",
+        "cmc": 3.0,
+        "type_line": "Enchantment",
+        "oracle_text": "Creatures can't attack you unless their controller pays {2} for each creature they control that's attacking you.",
+        "colors": [
+            "U"
+        ],
+        "color_identity": [
+            "U"
+        ],
+        "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set": "sld",
+        "set_name": "Secret Lair Drop",
+        "set_type": "box",
+        "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+        "collector_number": "381",
+        "rarity": "rare",
+        "flavor_text": "\"Why rebel? The system can be changed from within.\"\n\u2014Dolorus, magister equitum"
+    },
+    {
+        "id": "3e3f0bcd-0796-494d-bf51-94b33c1671e2",
+        "name": "Propaganda",
+        "uri": "https://api.scryfall.com/cards/3e3f0bcd-0796-494d-bf51-94b33c1671e9",
+        "scryfall_uri": "https://scryfall.com/card/sld/381/propaganda-propaganda?utm_source=api",
+        "layout": "normal",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/3/e/3e3f0bcd-0796-494d-bf51-94b33c1671e9.jpg?1670031727",
+            "normal": "https://cards.scryfall.io/normal/front/3/e/3e3f0bcd-0796-494d-bf51-94b33c1671e9.jpg?1670031727",
+            "large": "https://cards.scryfall.io/large/front/3/e/3e3f0bcd-0796-494d-bf51-94b33c1671e9.jpg?1670031727",
+            "png": "https://cards.scryfall.io/png/front/3/e/3e3f0bcd-0796-494d-bf51-94b33c1671e9.png?1670031727"
+        },
+        "mana_cost": "{2}{U}",
+        "cmc": 3.0,
+        "type_line": "Enchantment",
+        "oracle_text": "Creatures can't attack you unless their controller pays {2} for each creature they control that's attacking you.",
+        "colors": [
+            "U"
+        ],
+        "color_identity": [
+            "U"
+        ],
+        "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set": "sld",
+        "set_name": "Secret Lair Drop",
+        "set_type": "box",
+        "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+        "collector_number": "381",
+        "rarity": "rare",
+        "flavor_text": "\"Obedience is the true path to happiness.\"\n\u2014Dolorus, magister equitum"
+    },
+    {
+        "id": "cc77373d-34d1-475b-ade9-f49bb64bff9c",
+        "name": "Saproling",
+        "uri": "https://api.scryfall.com/cards/cc77373d-34d1-475b-ade9-f49bb64bff9c",
+        "scryfall_uri": "https://scryfall.com/card/tgk1/8/saproling-elf-knight?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/c/c/cc77373d-34d1-475b-ade9-f49bb64bff9c.jpg?1541007432",
+            "normal": "https://cards.scryfall.io/normal/front/c/c/cc77373d-34d1-475b-ade9-f49bb64bff9c.jpg?1541007432",
+            "large": "https://cards.scryfall.io/large/front/c/c/cc77373d-34d1-475b-ade9-f49bb64bff9c.jpg?1541007432",
+            "png": "https://cards.scryfall.io/png/front/c/c/cc77373d-34d1-475b-ade9-f49bb64bff9c.png?1541007432"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Creature \u2014 Saproling",
+        "oracle_text": "",
+        "power": "1",
+        "toughness": "1",
+        "colors": [
+            "G"
+        ],
+        "color_identity": [
+            "G"
+        ],
+        "set_id": "9cabda5f-97cd-4eb3-93b9-83d1e9a191cb",
+        "set": "tgk1",
+        "set_name": "GRN Guild Kit Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/9cabda5f-97cd-4eb3-93b9-83d1e9a191cb",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atgk1&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tgk1?utm_source=api",
+        "collector_number": "8",
+        "rarity": "common",
+        "watermark": "selesnya"
+    },
+    {
+        "id": "c06bcc5b-4ccd-452d-8579-beee6c5cbe98",
+        "name": "Saproling",
+        "uri": "https://api.scryfall.com/cards/c06bcc5b-4ccd-452d-8579-beee6c5cbe98",
+        "scryfall_uri": "https://scryfall.com/card/tgk1/5/saproling-insect?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/c/0/c06bcc5b-4ccd-452d-8579-beee6c5cbe98.jpg?1654766742",
+            "normal": "https://cards.scryfall.io/normal/front/c/0/c06bcc5b-4ccd-452d-8579-beee6c5cbe98.jpg?1654766742",
+            "large": "https://cards.scryfall.io/large/front/c/0/c06bcc5b-4ccd-452d-8579-beee6c5cbe98.jpg?1654766742",
+            "png": "https://cards.scryfall.io/png/front/c/0/c06bcc5b-4ccd-452d-8579-beee6c5cbe98.png?1654766742"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Creature \u2014 Saproling",
+        "oracle_text": "",
+        "power": "1",
+        "toughness": "1",
+        "colors": [
+            "G"
+        ],
+        "color_identity": [
+            "G"
+        ],
+        "set_id": "9cabda5f-97cd-4eb3-93b9-83d1e9a191cb",
+        "set": "tgk1",
+        "set_name": "GRN Guild Kit Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/9cabda5f-97cd-4eb3-93b9-83d1e9a191cb",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atgk1&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tgk1?utm_source=api",
+        "collector_number": "5",
+        "rarity": "common"
+    },
+    {
+        "id": "8ce60642-e207-46e6-b198-d803ff3b47f4",
+        "name": "Saproling",
+        "uri": "https://api.scryfall.com/cards/8ce60642-e207-46e6-b198-d803ff3b47f4",
+        "scryfall_uri": "https://scryfall.com/card/tust/14/saproling-saproling?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/8/c/8ce60642-e207-46e6-b198-d803ff3b47f4.jpg?1571508385",
+            "normal": "https://cards.scryfall.io/normal/front/8/c/8ce60642-e207-46e6-b198-d803ff3b47f4.jpg?1571508385",
+            "large": "https://cards.scryfall.io/large/front/8/c/8ce60642-e207-46e6-b198-d803ff3b47f4.jpg?1571508385",
+            "png": "https://cards.scryfall.io/png/front/8/c/8ce60642-e207-46e6-b198-d803ff3b47f4.png?1571508385"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Creature \u2014 Saproling",
+        "oracle_text": "",
+        "power": "1",
+        "toughness": "1",
+        "colors": [
+            "G"
+        ],
+        "color_identity": [
+            "G"
+        ],
+        "set_id": "f494ec08-2e39-4228-bddb-200967e2b109",
+        "set": "tust",
+        "set_name": "Unstable Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/f494ec08-2e39-4228-bddb-200967e2b109",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atust&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tust?utm_source=api",
+        "collector_number": "14",
+        "rarity": "common"
+    },
+    {
+        "id": "13e4832d-8530-4b85-b738-51d0c18f28ec",
+        "name": "Zombie",
+        "uri": "https://api.scryfall.com/cards/13e4832d-8530-4b85-b738-51d0c18f28ec",
+        "scryfall_uri": "https://scryfall.com/card/cc2/9/snake-zombie?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/back/1/3/13e4832d-8530-4b85-b738-51d0c18f28ec.jpg?1651951882",
+            "normal": "https://cards.scryfall.io/normal/back/1/3/13e4832d-8530-4b85-b738-51d0c18f28ec.jpg?1651951882",
+            "large": "https://cards.scryfall.io/large/back/1/3/13e4832d-8530-4b85-b738-51d0c18f28ec.jpg?1651951882",
+            "png": "https://cards.scryfall.io/png/back/1/3/13e4832d-8530-4b85-b738-51d0c18f28ec.png?1651951882"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Creature \u2014 Zombie",
+        "oracle_text": "",
+        "power": "2",
+        "toughness": "2",
+        "colors": [
+            "B"
+        ],
+        "color_identity": [
+            "B"
+        ],
+        "set_id": "78a7f4da-4838-4011-9f58-de8020d1fd2d",
+        "set": "cc2",
+        "set_name": "Commander Collection: Black",
+        "set_type": "arsenal",
+        "set_uri": "https://api.scryfall.com/sets/78a7f4da-4838-4011-9f58-de8020d1fd2d",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acc2&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/cc2?utm_source=api",
+        "collector_number": "9",
+        "rarity": "common"
+    },
+    {
+        "id": "13e4832d-8530-4b85-b738-51d0c18f28ec",
+        "name": "Snake",
+        "uri": "https://api.scryfall.com/cards/13e4832d-8530-4b85-b738-51d0c18f28ec",
+        "scryfall_uri": "https://scryfall.com/card/cc2/9/snake-zombie?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/1/3/13e4832d-8530-4b85-b738-51d0c18f28ec.jpg?1651951882",
+            "normal": "https://cards.scryfall.io/normal/front/1/3/13e4832d-8530-4b85-b738-51d0c18f28ec.jpg?1651951882",
+            "large": "https://cards.scryfall.io/large/front/1/3/13e4832d-8530-4b85-b738-51d0c18f28ec.jpg?1651951882",
+            "png": "https://cards.scryfall.io/png/front/1/3/13e4832d-8530-4b85-b738-51d0c18f28ec.png?1651951882"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Creature \u2014 Snake",
+        "oracle_text": "Deathtouch",
+        "power": "1",
+        "toughness": "1",
+        "colors": [
+            "B"
+        ],
+        "color_identity": [
+            "B"
+        ],
+        "set_id": "78a7f4da-4838-4011-9f58-de8020d1fd2d",
+        "set": "cc2",
+        "set_name": "Commander Collection: Black",
+        "set_type": "arsenal",
+        "set_uri": "https://api.scryfall.com/sets/78a7f4da-4838-4011-9f58-de8020d1fd2d",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acc2&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/cc2?utm_source=api",
+        "collector_number": "9",
+        "rarity": "common"
+    },
+    {
+        "id": "f78c0976-83c4-4694-a93f-13046902cdd9",
+        "name": "Soldier",
+        "uri": "https://api.scryfall.com/cards/f78c0976-83c4-4694-a93f-13046902cdd9",
+        "scryfall_uri": "https://scryfall.com/card/tgk1/6/soldier-goblin?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/f/7/f78c0976-83c4-4694-a93f-13046902cdd9.jpg?1541007771",
+            "normal": "https://cards.scryfall.io/normal/front/f/7/f78c0976-83c4-4694-a93f-13046902cdd9.jpg?1541007771",
+            "large": "https://cards.scryfall.io/large/front/f/7/f78c0976-83c4-4694-a93f-13046902cdd9.jpg?1541007771",
+            "png": "https://cards.scryfall.io/png/front/f/7/f78c0976-83c4-4694-a93f-13046902cdd9.png?1541007771"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Creature \u2014 Soldier",
+        "oracle_text": "",
+        "power": "1",
+        "toughness": "1",
+        "colors": [
+            "R",
+            "W"
+        ],
+        "color_identity": [
+            "R",
+            "W"
+        ],
+        "set_id": "9cabda5f-97cd-4eb3-93b9-83d1e9a191cb",
+        "set": "tgk1",
+        "set_name": "GRN Guild Kit Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/9cabda5f-97cd-4eb3-93b9-83d1e9a191cb",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atgk1&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tgk1?utm_source=api",
+        "collector_number": "6",
+        "rarity": "common"
+    },
+    {
+        "id": "41fc8b22-f6fe-4853-b80a-64ab70a41f1d",
+        "name": "Spirit",
+        "uri": "https://api.scryfall.com/cards/41fc8b22-f6fe-4853-b80a-64ab70a41f1d",
+        "scryfall_uri": "https://scryfall.com/card/tust/3/spirit-spirit?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/4/1/41fc8b22-f6fe-4853-b80a-64ab70a41f1d.jpg?1571508521",
+            "normal": "https://cards.scryfall.io/normal/front/4/1/41fc8b22-f6fe-4853-b80a-64ab70a41f1d.jpg?1571508521",
+            "large": "https://cards.scryfall.io/large/front/4/1/41fc8b22-f6fe-4853-b80a-64ab70a41f1d.jpg?1571508521",
+            "png": "https://cards.scryfall.io/png/front/4/1/41fc8b22-f6fe-4853-b80a-64ab70a41f1d.png?1571508521"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Creature \u2014 Spirit",
+        "oracle_text": "Flying",
+        "power": "1",
+        "toughness": "1",
+        "colors": [
+            "W"
+        ],
+        "color_identity": [
+            "W"
+        ],
+        "set_id": "f494ec08-2e39-4228-bddb-200967e2b109",
+        "set": "tust",
+        "set_name": "Unstable Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/f494ec08-2e39-4228-bddb-200967e2b109",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atust&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tust?utm_source=api",
+        "collector_number": "3",
+        "rarity": "common"
+    },
+    {
+        "id": "087c3a0d-c710-4451-989e-596b55352181",
+        "name": "Stitch in Time",
+        "uri": "https://api.scryfall.com/cards/087c3a0d-c710-4451-989e-596b55352184",
+        "scryfall_uri": "https://scryfall.com/card/sld/382/stitch-in-time-stitch-in-time?utm_source=api",
+        "layout": "normal",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/back/0/8/087c3a0d-c710-4451-989e-596b55352184.jpg?1670031740",
+            "normal": "https://cards.scryfall.io/normal/back/0/8/087c3a0d-c710-4451-989e-596b55352184.jpg?1670031740",
+            "large": "https://cards.scryfall.io/large/back/0/8/087c3a0d-c710-4451-989e-596b55352184.jpg?1670031740",
+            "png": "https://cards.scryfall.io/png/back/0/8/087c3a0d-c710-4451-989e-596b55352184.png?1670031740"
+        },
+        "mana_cost": "{1}{U}{R}",
+        "cmc": 3.0,
+        "type_line": "Sorcery",
+        "oracle_text": "Flip a coin. If you win the flip, take an extra turn after this one.",
+        "colors": [
+            "R",
+            "U"
+        ],
+        "color_identity": [
+            "R",
+            "U"
+        ],
+        "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set": "sld",
+        "set_name": "Secret Lair Drop",
+        "set_type": "box",
+        "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+        "collector_number": "382",
+        "rarity": "rare",
+        "flavor_text": "\"According to the strange journal I found, the spell succeeds half the time. Why, if I cast it twice, that's a guaranteed success!\"\n\u2014Rantings of Sigbar the Wild"
+    },
+    {
+        "id": "087c3a0d-c710-4451-989e-596b55352182",
+        "name": "Stitch in Time",
+        "uri": "https://api.scryfall.com/cards/087c3a0d-c710-4451-989e-596b55352184",
+        "scryfall_uri": "https://scryfall.com/card/sld/382/stitch-in-time-stitch-in-time?utm_source=api",
+        "layout": "normal",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/0/8/087c3a0d-c710-4451-989e-596b55352184.jpg?1670031740",
+            "normal": "https://cards.scryfall.io/normal/front/0/8/087c3a0d-c710-4451-989e-596b55352184.jpg?1670031740",
+            "large": "https://cards.scryfall.io/large/front/0/8/087c3a0d-c710-4451-989e-596b55352184.jpg?1670031740",
+            "png": "https://cards.scryfall.io/png/front/0/8/087c3a0d-c710-4451-989e-596b55352184.png?1670031740"
+        },
+        "mana_cost": "{1}{U}{R}",
+        "cmc": 3.0,
+        "type_line": "Sorcery",
+        "oracle_text": "Flip a coin. If you win the flip, take an extra turn after this one.",
+        "colors": [
+            "R",
+            "U"
+        ],
+        "color_identity": [
+            "R",
+            "U"
+        ],
+        "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set": "sld",
+        "set_name": "Secret Lair Drop",
+        "set_type": "box",
+        "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+        "collector_number": "382",
+        "rarity": "rare",
+        "flavor_text": "\"I believe the spell to have a 50% failure rate. I must be careful, lest I lose my sanity to the unbending force of pure, untempered time.\"\n\u2014Journal of Sigbar the Cautious"
+    },
+    {
+        "id": "2c65185b-6cf0-451d-985e-56aa45d9a57d",
+        "name": "Undercity",
+        "uri": "https://api.scryfall.com/cards/2c65185b-6cf0-451d-985e-56aa45d9a57d",
+        "scryfall_uri": "https://scryfall.com/card/tclb/20/the-initiative-undercity?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/back/2/c/2c65185b-6cf0-451d-985e-56aa45d9a57d.jpg?1676232820",
+            "normal": "https://cards.scryfall.io/normal/back/2/c/2c65185b-6cf0-451d-985e-56aa45d9a57d.jpg?1676232820",
+            "large": "https://cards.scryfall.io/large/back/2/c/2c65185b-6cf0-451d-985e-56aa45d9a57d.jpg?1676232820",
+            "png": "https://cards.scryfall.io/png/back/2/c/2c65185b-6cf0-451d-985e-56aa45d9a57d.png?1676232820"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Dungeon \u2014 Undercity",
+        "oracle_text": "You can't enter this dungeon unless you \"venture into Undercity.\"\nSecret Entrance \u2014 Search your library for a basic land card, reveal it, put it into your hand, then shuffle. (Leads to: Forge, Lost Well)\nForge \u2014 Put two +1/+1 counters on target creature. (Leads to: Trap!, Arena)\nLost Well \u2014 Scry 2. (Leads to: Arena, Stash)\nTrap! \u2014 Target player loses 5 life. (Leads to: Archives)\nArena \u2014 Goad target creature. (Leads to: Archives, Catacombs)\nStash \u2014 Create a Treasure token. (Leads to: Catacombs)\nArchives \u2014 Draw a card. (Leads to: Throne of the Dead Three)\nCatacombs \u2014 Create a 4/1 black Skeleton creature token with menace. (Leads to: Throne of the Dead Three)\nThrone of the Dead Three \u2014 Reveal the top ten cards of your library. Put a creature card from among them onto the battlefield with three +1/+1 counters on it. It gains hexproof until your next turn. Then shuffle.",
+        "colors": [],
+        "color_identity": [],
+        "set_id": "942706db-55db-4d8b-8337-deca3a4b522c",
+        "set": "tclb",
+        "set_name": "Battle for Baldur's Gate Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/942706db-55db-4d8b-8337-deca3a4b522c",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atclb&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tclb?utm_source=api",
+        "collector_number": "20",
+        "rarity": "common"
+    },
+    {
+        "id": "2c65185b-6cf0-451d-985e-56aa45d9a57d",
+        "name": "The Initiative",
+        "uri": "https://api.scryfall.com/cards/2c65185b-6cf0-451d-985e-56aa45d9a57d",
+        "scryfall_uri": "https://scryfall.com/card/tclb/20/the-initiative-undercity?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/2/c/2c65185b-6cf0-451d-985e-56aa45d9a57d.jpg?1676232820",
+            "normal": "https://cards.scryfall.io/normal/front/2/c/2c65185b-6cf0-451d-985e-56aa45d9a57d.jpg?1676232820",
+            "large": "https://cards.scryfall.io/large/front/2/c/2c65185b-6cf0-451d-985e-56aa45d9a57d.jpg?1676232820",
+            "png": "https://cards.scryfall.io/png/front/2/c/2c65185b-6cf0-451d-985e-56aa45d9a57d.png?1676232820"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token",
+        "oracle_text": "Whenever one or more creatures a player controls deal combat damage to you, that player takes the initiative.\nWhenever you take the initiative and at the beginning of your upkeep, venture into Undercity. (If you're in a dungeon, advance to the next room. If you're not, enter Undercity. You can take the initiative even if you already have it.)",
+        "colors": [],
+        "color_identity": [],
+        "set_id": "942706db-55db-4d8b-8337-deca3a4b522c",
+        "set": "tclb",
+        "set_name": "Battle for Baldur's Gate Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/942706db-55db-4d8b-8337-deca3a4b522c",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atclb&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tclb?utm_source=api",
+        "collector_number": "20",
+        "rarity": "common"
+    },
+    {
+        "id": "7215460e-8c06-47d0-94e5-d1832d0218af",
+        "name": "The Ring Tempts You",
+        "uri": "https://api.scryfall.com/cards/7215460e-8c06-47d0-94e5-d1832d0218af",
+        "scryfall_uri": "https://scryfall.com/card/tltr/H13/the-ring-the-ring-tempts-you?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/back/7/2/7215460e-8c06-47d0-94e5-d1832d0218af.jpg?1688215133",
+            "normal": "https://cards.scryfall.io/normal/back/7/2/7215460e-8c06-47d0-94e5-d1832d0218af.jpg?1688215133",
+            "large": "https://cards.scryfall.io/large/back/7/2/7215460e-8c06-47d0-94e5-d1832d0218af.jpg?1688215133",
+            "png": "https://cards.scryfall.io/png/back/7/2/7215460e-8c06-47d0-94e5-d1832d0218af.png?1688215133"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token",
+        "oracle_text": "As the Ring tempts you, you get an emblem named The Ring if you don't have one. Then your emblem gains its next ability and you choose a creature you control to become or remain your Ring-bearer.\n\u2022 The Ring can tempt you even if you don't control a creature.\n\u2022 The Ring gains its abilities in order from top to bottom. Once it gains an ability, it has that ability for the rest of the game.\n\u2022 Each time the Ring tempts you, you must choose a creature if you control one.\n\u2022 Each player can have only one emblem named The Ring and only one Ring-bearer at a time.",
+        "colors": [],
+        "color_identity": [],
+        "set_id": "f6267b1d-21e9-4a7f-a5b3-7c2af4fc958b",
+        "set": "tltr",
+        "set_name": "Tales of Middle-earth Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/f6267b1d-21e9-4a7f-a5b3-7c2af4fc958b",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atltr&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tltr?utm_source=api",
+        "collector_number": "H13",
+        "rarity": "common"
+    },
+    {
+        "id": "7215460e-8c06-47d0-94e5-d1832d0218af",
+        "name": "The Ring",
+        "uri": "https://api.scryfall.com/cards/7215460e-8c06-47d0-94e5-d1832d0218af",
+        "scryfall_uri": "https://scryfall.com/card/tltr/H13/the-ring-the-ring-tempts-you?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/7/2/7215460e-8c06-47d0-94e5-d1832d0218af.jpg?1688215133",
+            "normal": "https://cards.scryfall.io/normal/front/7/2/7215460e-8c06-47d0-94e5-d1832d0218af.jpg?1688215133",
+            "large": "https://cards.scryfall.io/large/front/7/2/7215460e-8c06-47d0-94e5-d1832d0218af.jpg?1688215133",
+            "png": "https://cards.scryfall.io/png/front/7/2/7215460e-8c06-47d0-94e5-d1832d0218af.png?1688215133"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Emblem",
+        "oracle_text": "Your Ring-bearer is legendary and can't be blocked by creatures with greater power.\nWhenever your Ring-bearer attacks, draw a card, then discard a card.\nWhenever your Ring-bearer becomes blocked by a creature, that creature's controller sacrifices it at end of combat.\nWhenever your Ring-bearer deals combat damage to a player, each opponent loses 3 life.",
+        "colors": [],
+        "color_identity": [],
+        "set_id": "f6267b1d-21e9-4a7f-a5b3-7c2af4fc958b",
+        "set": "tltr",
+        "set_name": "Tales of Middle-earth Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/f6267b1d-21e9-4a7f-a5b3-7c2af4fc958b",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atltr&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tltr?utm_source=api",
+        "collector_number": "H13",
+        "rarity": "common"
+    },
+    {
+        "id": "2d844ee2-20a0-4071-bc2c-4a58ab1dc07f",
+        "name": "Thopter",
+        "uri": "https://api.scryfall.com/cards/2d844ee2-20a0-4071-bc2c-4a58ab1dc07f",
+        "scryfall_uri": "https://scryfall.com/card/tust/6/thopter-thopter?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/2/d/2d844ee2-20a0-4071-bc2c-4a58ab1dc07f.jpg?1571508393",
+            "normal": "https://cards.scryfall.io/normal/front/2/d/2d844ee2-20a0-4071-bc2c-4a58ab1dc07f.jpg?1571508393",
+            "large": "https://cards.scryfall.io/large/front/2/d/2d844ee2-20a0-4071-bc2c-4a58ab1dc07f.jpg?1571508393",
+            "png": "https://cards.scryfall.io/png/front/2/d/2d844ee2-20a0-4071-bc2c-4a58ab1dc07f.png?1571508393"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Artifact Creature \u2014 Thopter",
+        "oracle_text": "Flying",
+        "power": "1",
+        "toughness": "1",
+        "colors": [
+            "U"
+        ],
+        "color_identity": [
+            "U"
+        ],
+        "set_id": "f494ec08-2e39-4228-bddb-200967e2b109",
+        "set": "tust",
+        "set_name": "Unstable Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/f494ec08-2e39-4228-bddb-200967e2b109",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atust&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tust?utm_source=api",
+        "collector_number": "6",
+        "rarity": "common"
+    },
+    {
+        "id": "82fa24fb-aecc-4c33-9e79-c29651ddafb1",
+        "name": "Ulamog, the Ceaseless Hunger",
+        "uri": "https://api.scryfall.com/cards/82fa24fb-aecc-4c33-9e79-c29651ddafbe",
+        "scryfall_uri": "https://scryfall.com/card/sld/1122/ulamog-the-ceaseless-hunger-ulamog-the-ceaseless-hunger?utm_source=api",
+        "layout": "normal",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/back/8/2/82fa24fb-aecc-4c33-9e79-c29651ddafbe.jpg?1670465367",
+            "normal": "https://cards.scryfall.io/normal/back/8/2/82fa24fb-aecc-4c33-9e79-c29651ddafbe.jpg?1670465367",
+            "large": "https://cards.scryfall.io/large/back/8/2/82fa24fb-aecc-4c33-9e79-c29651ddafbe.jpg?1670465367",
+            "png": "https://cards.scryfall.io/png/back/8/2/82fa24fb-aecc-4c33-9e79-c29651ddafbe.png?1670465367"
+        },
+        "mana_cost": "{10}",
+        "cmc": 10.0,
+        "type_line": "Legendary Creature \u2014 Eldrazi",
+        "oracle_text": "When you cast this spell, exile two target permanents.\nIndestructible\nWhenever Ulamog, the Ceaseless Hunger attacks, defending player exiles the top twenty cards of their library.",
+        "power": "10",
+        "toughness": "10",
+        "colors": [],
+        "color_identity": [],
+        "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set": "sld",
+        "set_name": "Secret Lair Drop",
+        "set_type": "box",
+        "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+        "collector_number": "1122",
+        "rarity": "mythic"
+    },
+    {
+        "id": "82fa24fb-aecc-4c33-9e79-c29651ddafb2",
+        "name": "Ulamog, the Ceaseless Hunger",
+        "uri": "https://api.scryfall.com/cards/82fa24fb-aecc-4c33-9e79-c29651ddafbe",
+        "scryfall_uri": "https://scryfall.com/card/sld/1122/ulamog-the-ceaseless-hunger-ulamog-the-ceaseless-hunger?utm_source=api",
+        "layout": "normal",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/8/2/82fa24fb-aecc-4c33-9e79-c29651ddafbe.jpg?1670465367",
+            "normal": "https://cards.scryfall.io/normal/front/8/2/82fa24fb-aecc-4c33-9e79-c29651ddafbe.jpg?1670465367",
+            "large": "https://cards.scryfall.io/large/front/8/2/82fa24fb-aecc-4c33-9e79-c29651ddafbe.jpg?1670465367",
+            "png": "https://cards.scryfall.io/png/front/8/2/82fa24fb-aecc-4c33-9e79-c29651ddafbe.png?1670465367"
+        },
+        "mana_cost": "{10}",
+        "cmc": 10.0,
+        "type_line": "Legendary Creature \u2014 Eldrazi",
+        "oracle_text": "When you cast this spell, exile two target permanents.\nIndestructible\nWhenever Ulamog, the Ceaseless Hunger attacks, defending player exiles the top twenty cards of their library.",
+        "power": "10",
+        "toughness": "10",
+        "colors": [],
+        "color_identity": [],
+        "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set": "sld",
+        "set_name": "Secret Lair Drop",
+        "set_type": "box",
+        "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+        "collector_number": "1122",
+        "rarity": "mythic"
+    },
+    {
+        "id": "05934d59-7e98-4fff-8ccb-70cd1a61c6fd",
+        "name": "Vampire",
+        "uri": "https://api.scryfall.com/cards/05934d59-7e98-4fff-8ccb-70cd1a61c6fd",
+        "scryfall_uri": "https://scryfall.com/card/f17/10/vampire-treasure?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/0/5/05934d59-7e98-4fff-8ccb-70cd1a61c6fd.jpg?1665776404",
+            "normal": "https://cards.scryfall.io/normal/front/0/5/05934d59-7e98-4fff-8ccb-70cd1a61c6fd.jpg?1665776404",
+            "large": "https://cards.scryfall.io/large/front/0/5/05934d59-7e98-4fff-8ccb-70cd1a61c6fd.jpg?1665776404",
+            "png": "https://cards.scryfall.io/png/front/0/5/05934d59-7e98-4fff-8ccb-70cd1a61c6fd.png?1665776404"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Creature \u2014 Vampire",
+        "oracle_text": "Lifelink",
+        "power": "1",
+        "toughness": "1",
+        "colors": [
+            "W"
+        ],
+        "color_identity": [
+            "W"
+        ],
+        "set_id": "690dae5c-2de4-4071-b77c-19883791f987",
+        "set": "f17",
+        "set_name": "Friday Night Magic 2017",
+        "set_type": "promo",
+        "set_uri": "https://api.scryfall.com/sets/690dae5c-2de4-4071-b77c-19883791f987",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Af17&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/f17?utm_source=api",
+        "collector_number": "10",
+        "rarity": "common"
+    },
+    {
+        "id": "5d9e999f-7033-4ccd-933a-eac4105b3edc",
+        "name": "Vampire",
+        "uri": "https://api.scryfall.com/cards/5d9e999f-7033-4ccd-933a-eac4105b3edc",
+        "scryfall_uri": "https://scryfall.com/card/tust/8/vampire-vampire?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/5/d/5d9e999f-7033-4ccd-933a-eac4105b3edc.jpg?1571508406",
+            "normal": "https://cards.scryfall.io/normal/front/5/d/5d9e999f-7033-4ccd-933a-eac4105b3edc.jpg?1571508406",
+            "large": "https://cards.scryfall.io/large/front/5/d/5d9e999f-7033-4ccd-933a-eac4105b3edc.jpg?1571508406",
+            "png": "https://cards.scryfall.io/png/front/5/d/5d9e999f-7033-4ccd-933a-eac4105b3edc.png?1571508406"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Creature \u2014 Vampire",
+        "oracle_text": "Flying",
+        "power": "2",
+        "toughness": "2",
+        "colors": [
+            "B"
+        ],
+        "color_identity": [
+            "B"
+        ],
+        "set_id": "f494ec08-2e39-4228-bddb-200967e2b109",
+        "set": "tust",
+        "set_name": "Unstable Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/f494ec08-2e39-4228-bddb-200967e2b109",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atust&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tust?utm_source=api",
+        "collector_number": "8",
+        "rarity": "common"
+    },
+    {
+        "id": "2879010f-b752-4808-8531-d24e612de0d9",
+        "name": "Voja",
+        "uri": "https://api.scryfall.com/cards/2879010f-b752-4808-8531-d24e612de0d9",
+        "scryfall_uri": "https://scryfall.com/card/tgk1/11/voja-saproling?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/2/8/2879010f-b752-4808-8531-d24e612de0d9.jpg?1541006575",
+            "normal": "https://cards.scryfall.io/normal/front/2/8/2879010f-b752-4808-8531-d24e612de0d9.jpg?1541006575",
+            "large": "https://cards.scryfall.io/large/front/2/8/2879010f-b752-4808-8531-d24e612de0d9.jpg?1541006575",
+            "png": "https://cards.scryfall.io/png/front/2/8/2879010f-b752-4808-8531-d24e612de0d9.png?1541006575"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Legendary Creature \u2014 Wolf",
+        "oracle_text": "",
+        "power": "2",
+        "toughness": "2",
+        "colors": [
+            "G",
+            "W"
+        ],
+        "color_identity": [
+            "G",
+            "W"
+        ],
+        "set_id": "9cabda5f-97cd-4eb3-93b9-83d1e9a191cb",
+        "set": "tgk1",
+        "set_name": "GRN Guild Kit Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/9cabda5f-97cd-4eb3-93b9-83d1e9a191cb",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atgk1&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tgk1?utm_source=api",
+        "collector_number": "11",
+        "rarity": "common"
+    },
+    {
+        "id": "1d34ff67-24e1-4cf5-b032-8be6b83e0819",
+        "name": "Goblin",
+        "uri": "https://api.scryfall.com/cards/1d34ff67-24e1-4cf5-b032-8be6b83e0819",
+        "scryfall_uri": "https://scryfall.com/card/tgk1/3/weird-goblin?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/back/1/d/1d34ff67-24e1-4cf5-b032-8be6b83e0819.jpg?1632381617",
+            "normal": "https://cards.scryfall.io/normal/back/1/d/1d34ff67-24e1-4cf5-b032-8be6b83e0819.jpg?1632381617",
+            "large": "https://cards.scryfall.io/large/back/1/d/1d34ff67-24e1-4cf5-b032-8be6b83e0819.jpg?1632381617",
+            "png": "https://cards.scryfall.io/png/back/1/d/1d34ff67-24e1-4cf5-b032-8be6b83e0819.png?1632381617"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Creature \u2014 Goblin",
+        "oracle_text": "",
+        "power": "1",
+        "toughness": "1",
+        "colors": [
+            "R"
+        ],
+        "color_identity": [
+            "R"
+        ],
+        "set_id": "9cabda5f-97cd-4eb3-93b9-83d1e9a191cb",
+        "set": "tgk1",
+        "set_name": "GRN Guild Kit Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/9cabda5f-97cd-4eb3-93b9-83d1e9a191cb",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atgk1&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tgk1?utm_source=api",
+        "collector_number": "3",
+        "rarity": "common"
+    },
+    {
+        "id": "1d34ff67-24e1-4cf5-b032-8be6b83e0819",
+        "name": "Weird",
+        "uri": "https://api.scryfall.com/cards/1d34ff67-24e1-4cf5-b032-8be6b83e0819",
+        "scryfall_uri": "https://scryfall.com/card/tgk1/3/weird-goblin?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/1/d/1d34ff67-24e1-4cf5-b032-8be6b83e0819.jpg?1632381617",
+            "normal": "https://cards.scryfall.io/normal/front/1/d/1d34ff67-24e1-4cf5-b032-8be6b83e0819.jpg?1632381617",
+            "large": "https://cards.scryfall.io/large/front/1/d/1d34ff67-24e1-4cf5-b032-8be6b83e0819.jpg?1632381617",
+            "png": "https://cards.scryfall.io/png/front/1/d/1d34ff67-24e1-4cf5-b032-8be6b83e0819.png?1632381617"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Creature \u2014 Weird",
+        "oracle_text": "Defender, flying",
+        "power": "3",
+        "toughness": "3",
+        "colors": [
+            "U"
+        ],
+        "color_identity": [
+            "U"
+        ],
+        "set_id": "9cabda5f-97cd-4eb3-93b9-83d1e9a191cb",
+        "set": "tgk1",
+        "set_name": "GRN Guild Kit Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/9cabda5f-97cd-4eb3-93b9-83d1e9a191cb",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atgk1&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tgk1?utm_source=api",
+        "collector_number": "3",
+        "rarity": "common",
+        "watermark": "izzet"
+    },
+    {
+        "id": "d0c052ed-c761-4f1d-816b-092cdd6cb0fa",
+        "name": "Wurm",
+        "uri": "https://api.scryfall.com/cards/d0c052ed-c761-4f1d-816b-092cdd6cb0fa",
+        "scryfall_uri": "https://scryfall.com/card/tgk1/9/wurm-saproling?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/d/0/d0c052ed-c761-4f1d-816b-092cdd6cb0fa.jpg?1541007588",
+            "normal": "https://cards.scryfall.io/normal/front/d/0/d0c052ed-c761-4f1d-816b-092cdd6cb0fa.jpg?1541007588",
+            "large": "https://cards.scryfall.io/large/front/d/0/d0c052ed-c761-4f1d-816b-092cdd6cb0fa.jpg?1541007588",
+            "png": "https://cards.scryfall.io/png/front/d/0/d0c052ed-c761-4f1d-816b-092cdd6cb0fa.png?1541007588"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Creature \u2014 Wurm",
+        "oracle_text": "Trample",
+        "power": "5",
+        "toughness": "5",
+        "colors": [
+            "G"
+        ],
+        "color_identity": [
+            "G"
+        ],
+        "set_id": "9cabda5f-97cd-4eb3-93b9-83d1e9a191cb",
+        "set": "tgk1",
+        "set_name": "GRN Guild Kit Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/9cabda5f-97cd-4eb3-93b9-83d1e9a191cb",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atgk1&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tgk1?utm_source=api",
+        "collector_number": "9",
+        "rarity": "common",
+        "watermark": "selesnya"
+    },
+    {
+        "id": "d5dfd236-b1da-4552-b94f-ebf6bb9dafd1",
+        "name": "Zndrsplt, Eye of Wisdom",
+        "uri": "https://api.scryfall.com/cards/d5dfd236-b1da-4552-b94f-ebf6bb9dafdf",
+        "scryfall_uri": "https://scryfall.com/card/sld/379/zndrsplt-eye-of-wisdom-zndrsplt-eye-of-wisdom?utm_source=api",
+        "layout": "normal",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/back/d/5/d5dfd236-b1da-4552-b94f-ebf6bb9dafdf.jpg?1670031689",
+            "normal": "https://cards.scryfall.io/normal/back/d/5/d5dfd236-b1da-4552-b94f-ebf6bb9dafdf.jpg?1670031689",
+            "large": "https://cards.scryfall.io/large/back/d/5/d5dfd236-b1da-4552-b94f-ebf6bb9dafdf.jpg?1670031689",
+            "png": "https://cards.scryfall.io/png/back/d/5/d5dfd236-b1da-4552-b94f-ebf6bb9dafdf.png?1670031689"
+        },
+        "mana_cost": "{4}{U}",
+        "cmc": 5.0,
+        "type_line": "Legendary Creature \u2014 Homunculus",
+        "oracle_text": "Partner with Okaun, Eye of Chaos (When this creature enters the battlefield, target player may put Okaun into their hand from their library, then shuffle.)\nAt the beginning of combat on your turn, flip a coin until you lose a flip.\nWhenever a player wins a coin flip, draw a card.",
+        "power": "1",
+        "toughness": "4",
+        "colors": [
+            "U"
+        ],
+        "color_identity": [
+            "U"
+        ],
+        "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set": "sld",
+        "set_name": "Secret Lair Drop",
+        "set_type": "box",
+        "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+        "collector_number": "379",
+        "rarity": "rare"
+    },
+    {
+        "id": "d5dfd236-b1da-4552-b94f-ebf6bb9dafd2",
+        "name": "Zndrsplt, Eye of Wisdom",
+        "uri": "https://api.scryfall.com/cards/d5dfd236-b1da-4552-b94f-ebf6bb9dafdf",
+        "scryfall_uri": "https://scryfall.com/card/sld/379/zndrsplt-eye-of-wisdom-zndrsplt-eye-of-wisdom?utm_source=api",
+        "layout": "normal",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/d/5/d5dfd236-b1da-4552-b94f-ebf6bb9dafdf.jpg?1670031689",
+            "normal": "https://cards.scryfall.io/normal/front/d/5/d5dfd236-b1da-4552-b94f-ebf6bb9dafdf.jpg?1670031689",
+            "large": "https://cards.scryfall.io/large/front/d/5/d5dfd236-b1da-4552-b94f-ebf6bb9dafdf.jpg?1670031689",
+            "png": "https://cards.scryfall.io/png/front/d/5/d5dfd236-b1da-4552-b94f-ebf6bb9dafdf.png?1670031689"
+        },
+        "mana_cost": "{4}{U}",
+        "cmc": 5.0,
+        "type_line": "Legendary Creature \u2014 Homunculus",
+        "oracle_text": "Partner with Okaun, Eye of Chaos (When this creature enters the battlefield, target player may put Okaun into their hand from their library, then shuffle.)\nAt the beginning of combat on your turn, flip a coin until you lose a flip.\nWhenever a player wins a coin flip, draw a card.",
+        "power": "1",
+        "toughness": "4",
+        "colors": [
+            "U"
+        ],
+        "color_identity": [
+            "U"
+        ],
+        "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set": "sld",
+        "set_name": "Secret Lair Drop",
+        "set_type": "box",
+        "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+        "collector_number": "379",
+        "rarity": "rare"
+    },
+    {
+        "id": "e25ce640-baf5-442b-8b75-d05dd9fb20d1",
+        "name": "Zndrsplt, Eye of Wisdom",
+        "uri": "https://api.scryfall.com/cards/e25ce640-baf5-442b-8b75-d05dd9fb20dd",
+        "scryfall_uri": "https://scryfall.com/card/sld/379%E2%98%85/zndrsplt-eye-of-wisdom-zndrsplt-eye-of-wisdom?utm_source=api",
+        "layout": "normal",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/back/e/2/e25ce640-baf5-442b-8b75-d05dd9fb20dd.jpg?1670031676",
+            "normal": "https://cards.scryfall.io/normal/back/e/2/e25ce640-baf5-442b-8b75-d05dd9fb20dd.jpg?1670031676",
+            "large": "https://cards.scryfall.io/large/back/e/2/e25ce640-baf5-442b-8b75-d05dd9fb20dd.jpg?1670031676",
+            "png": "https://cards.scryfall.io/png/back/e/2/e25ce640-baf5-442b-8b75-d05dd9fb20dd.png?1670031676"
+        },
+        "mana_cost": "{4}{U}",
+        "cmc": 5.0,
+        "type_line": "Legendary Creature \u2014 Homunculus",
+        "oracle_text": "Partner with Okaun, Eye of Chaos (When this creature enters the battlefield, target player may put Okaun into their hand from their library, then shuffle.)\nAt the beginning of combat on your turn, flip a coin until you lose a flip.\nWhenever a player wins a coin flip, draw a card.",
+        "power": "1",
+        "toughness": "4",
+        "colors": [
+            "U"
+        ],
+        "color_identity": [
+            "U"
+        ],
+        "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set": "sld",
+        "set_name": "Secret Lair Drop",
+        "set_type": "box",
+        "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+        "collector_number": "379\u2605",
+        "rarity": "rare"
+    },
+    {
+        "id": "e25ce640-baf5-442b-8b75-d05dd9fb20d2",
+        "name": "Zndrsplt, Eye of Wisdom",
+        "uri": "https://api.scryfall.com/cards/e25ce640-baf5-442b-8b75-d05dd9fb20dd",
+        "scryfall_uri": "https://scryfall.com/card/sld/379%E2%98%85/zndrsplt-eye-of-wisdom-zndrsplt-eye-of-wisdom?utm_source=api",
+        "layout": "normal",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/e/2/e25ce640-baf5-442b-8b75-d05dd9fb20dd.jpg?1670031676",
+            "normal": "https://cards.scryfall.io/normal/front/e/2/e25ce640-baf5-442b-8b75-d05dd9fb20dd.jpg?1670031676",
+            "large": "https://cards.scryfall.io/large/front/e/2/e25ce640-baf5-442b-8b75-d05dd9fb20dd.jpg?1670031676",
+            "png": "https://cards.scryfall.io/png/front/e/2/e25ce640-baf5-442b-8b75-d05dd9fb20dd.png?1670031676"
+        },
+        "mana_cost": "{4}{U}",
+        "cmc": 5.0,
+        "type_line": "Legendary Creature \u2014 Homunculus",
+        "oracle_text": "Partner with Okaun, Eye of Chaos (When this creature enters the battlefield, target player may put Okaun into their hand from their library, then shuffle.)\nAt the beginning of combat on your turn, flip a coin until you lose a flip.\nWhenever a player wins a coin flip, draw a card.",
+        "power": "1",
+        "toughness": "4",
+        "colors": [
+            "U"
+        ],
+        "color_identity": [
+            "U"
+        ],
+        "set_id": "4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set": "sld",
+        "set_name": "Secret Lair Drop",
+        "set_type": "box",
+        "set_uri": "https://api.scryfall.com/sets/4d92a8a7-ccb0-437d-abdc-9d70fc5ed672",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asld&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/sld?utm_source=api",
+        "collector_number": "379\u2605",
+        "rarity": "rare"
+    },
+    {
+        "id": "5a561f84-5696-44a5-8dc1-227af883341d",
+        "name": "Zombie",
+        "uri": "https://api.scryfall.com/cards/5a561f84-5696-44a5-8dc1-227af883341d",
+        "scryfall_uri": "https://scryfall.com/card/tust/9/zombie-zombie?utm_source=api",
+        "layout": "token",
+        "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/5/a/5a561f84-5696-44a5-8dc1-227af883341d.jpg?1571508505",
+            "normal": "https://cards.scryfall.io/normal/front/5/a/5a561f84-5696-44a5-8dc1-227af883341d.jpg?1571508505",
+            "large": "https://cards.scryfall.io/large/front/5/a/5a561f84-5696-44a5-8dc1-227af883341d.jpg?1571508505",
+            "png": "https://cards.scryfall.io/png/front/5/a/5a561f84-5696-44a5-8dc1-227af883341d.png?1571508505"
+        },
+        "mana_cost": "",
+        "cmc": 0.0,
+        "type_line": "Token Creature \u2014 Zombie",
+        "oracle_text": "",
+        "power": "2",
+        "toughness": "2",
+        "colors": [
+            "B"
+        ],
+        "color_identity": [
+            "B"
+        ],
+        "set_id": "f494ec08-2e39-4228-bddb-200967e2b109",
+        "set": "tust",
+        "set_name": "Unstable Tokens",
+        "set_type": "token",
+        "set_uri": "https://api.scryfall.com/sets/f494ec08-2e39-4228-bddb-200967e2b109",
+        "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atust&unique=prints",
+        "scryfall_set_uri": "https://scryfall.com/sets/tust?utm_source=api",
+        "collector_number": "9",
+        "rarity": "common"
+    }
+]
