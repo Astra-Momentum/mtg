@@ -46,9 +46,12 @@ Projet fait localement pour pouvoir jouer à Magic the Gathering entre amis, san
 
 ### Windows [À VENIR, ENCORE EN PRÉPARATION]
 [1. Veuillez télécharger les librairies nécessaires à l'aide de ce lien](https://send.tresorit.com/a#NeOgYYJfj0lyDi6UP6itNw)
-2. Décompressez et déplacez **_internal** dans le dossier que vous avez créé en **1. de Setup initial** :
 
-3. Téléchargez **Jeu.exe, backend, views et images** dans les fichiers tout en haut, et déplacez-les dans le dossier que vous avez créé en **1. de Setup initial** :  
+2. Décompressez et déplacez **_internal** dans le dossier que vous avez créé en **1. de Setup initial** :
+![image](./.guide/5_1.png)  
+
+3. Téléchargez **Jeu.exe, backend, views et images** dans les fichiers tout en haut, et déplacez-les dans le dossier que vous avez créé en **1. de Setup initial**, vous donnant ceci :  
+![image](./.guide/5_2.png) 
    
 4. Nous recommandons de vous créer un raccourci de bureau de cet exécutable :  
 
