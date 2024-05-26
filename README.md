@@ -22,11 +22,11 @@ Projet fait localement pour pouvoir jouer à Magic the Gathering entre amis, san
 ![image](./.guide/1_1.png)  
 ![image](./.guide/1_2.png)  
 
-2. Dans ce dossier, crééez un nouveau dossier nommé Cartes :  
+2. Dans ce dossier, crééez un nouveau dossier nommé Cards :  
 
 ![image](./.guide/2_2.png)  
 
-3. Téléchargez les dossiers compressés d'images (voir **Images** plus haut) Pour chaque dossier d'images compressé, décompressez-le directement dans le dossier Cartes de **2.** :  
+3. Téléchargez les dossiers compressés d'images (voir **Images** plus haut) Pour chaque dossier d'images compressé, décompressez-le directement dans le dossier Cards de **2.** :  
 
 ![image](./.guide/3_1.png)  
 ![image](./.guide/3_2.png)  
@@ -37,7 +37,7 @@ Projet fait localement pour pouvoir jouer à Magic the Gathering entre amis, san
    
 ![image](./.guide/4_1.png)  
   
-5. Voici le contenu du dossier Cartes que vous devriez avoir après ce setup :
+5. Voici le contenu du dossier Cards que vous devriez avoir après ce setup :
 
 ![image](./.guide/4_2.png)  
 
