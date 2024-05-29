@@ -14,7 +14,7 @@ Projet fait localement pour pouvoir jouer à Magic the Gathering entre amis, san
 
 [Lien de téléchargement pour les cartes simples](https://send.tresorit.com/a#FitmIVlsXBsb8JQEZQz4CA)  
 
-[Lien de téléchargement pour les cartes doubles ainsi que les cartes tokens](https://send.tresorit.com/a#-NnRnh4QGKREkdN78lYHIQ)
+[Lien de téléchargement pour les cartes doubles ainsi que les cartes tokens](https://send.tresorit.com/a#8kaGkte37q5MaA9FJBM8qA)
 
 ### Setup initial
 1. Commencez par vous créer un dossier du nom de votre choix, il peut être situé n'importe où :  
