@@ -4,6 +4,21 @@ Projet fait localement pour pouvoir jouer à Magic the Gathering entre amis, san
 
 ## Installation
 
+### Windows 
+[1. Veuillez télécharger le **jeu complet**](https://send.tresorit.com/a#whmnn0QwnAGw-kzA5JHICg)
+
+2. Décompressez le dossier à l'emplacement de votre choix, vous devriez donc avoir :
+   
+![image](./.guide/5_3.png) 
+
+**NOTE : Vous pouvez renommer le dossier et/ou l'exécutable au(x) nom(s) de votre choix**
+
+3. Nous recommandons de vous créer un raccourci de bureau de l'exécutable situé dans le dossier décompressé 
+
+
+### Linux -----[**À LA DEMANDE**]-----
+
+
 ### Les images
 > [!caution]
 > :warning: **ATTENTION pour pouvoir utiliser les images, vous devrez :**
@@ -16,13 +31,10 @@ Projet fait localement pour pouvoir jouer à Magic the Gathering entre amis, san
 
 [Lien de téléchargement pour les cartes doubles ainsi que les cartes tokens](https://send.tresorit.com/a#YnN8nD6U0iA4p_M3M7xQEg)
 
-### Setup initial
-1. Commencez par vous créer un dossier du nom de votre choix, il peut être situé n'importe où :  
-   
-![image](./.guide/1_1.png)  
-![image](./.guide/1_2.png)  
+### Setup
+1. Commencez par suivre les instructions d'**Installation** plus haut
 
-2. Dans ce dossier, crééez un nouveau dossier nommé Cards :  
+2. Dans le dossier obtenu, crééez un nouveau dossier nommé Cards :  
 
 ![image](./.guide/2_2.png)  
 
@@ -40,23 +52,3 @@ Projet fait localement pour pouvoir jouer à Magic the Gathering entre amis, san
 5. Voici le contenu du dossier Cards que vous devriez avoir après ce setup :
 
 ![image](./.guide/4_2.png)  
-
-
-
-
-### Windows [À VENIR, ENCORE EN PRÉPARATION]
-[1. Veuillez télécharger les librairies nécessaires à l'aide de ce lien](https://send.tresorit.com/a#yYGXy_IRqBzP_z6kvLComw)
-
-1. Décompressez et déplacez **_internal** dans le dossier que vous avez créé en **1. de Setup initial** :
-![image](./.guide/5_1.png)  
-
-1. Téléchargez **Jeu.exe, backend, views et images** dans les fichiers tout en haut, et déplacez-les dans le dossier que vous avez créé en **1. de Setup initial**, vous donnant ceci :  
-![image](./.guide/5_2.png) 
-   
-1. Voici ce que vous devriez avoir  
-![image](./.guide/5_3.png) 
-
-2. Nous recommandons de vous créer un raccourci de bureau de cet exécutable :  
-
-
-### Linux
