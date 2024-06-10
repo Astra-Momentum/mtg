@@ -5,7 +5,7 @@ Projet fait localement pour pouvoir jouer à Magic the Gathering entre amis, san
 ## Installation
 
 ### Windows 
-[1. Veuillez télécharger le **jeu complet**](https://send.tresorit.com/a#whmnn0QwnAGw-kzA5JHICg)
+[1. Veuillez télécharger le **jeu complet**](https://send.tresorit.com/a#vzEWwSYNZuWryJ387H-CTg)
 
 2. Décompressez le dossier à l'emplacement de votre choix, vous devriez donc avoir :
    
