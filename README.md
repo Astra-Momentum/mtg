@@ -4,22 +4,14 @@ Projet fait localement pour pouvoir jouer à Magic the Gathering entre amis, san
 
 ## Installation
 
-### Windows 
+### Setup du jeu
 [1. Veuillez télécharger le **bundle du jeu complet**](https://send.tresorit.com/a#b23OXzAYhY-b1xDumsupDw)
 
-2. Décompressez le dossier à l'emplacement de votre choix, vous devriez donc avoir :
+2. Décompressez le dossier dans un dossier de votre choix :
    
-![image](./.guide/5_3.png) 
-
-**NOTE : Vous pouvez renommer le dossier et/ou l'exécutable au(x) nom(s) de votre choix**
-
-3. Nous recommandons de vous créer un raccourci de bureau de l'exécutable situé dans le dossier décompressé 
 
 
-### Linux -----[**À LA DEMANDE**]-----
-
-
-### Les images
+### Setup des cartes
 > [!caution]
 > :warning: **ATTENTION pour pouvoir utiliser les images, vous devrez :**
 > 1. Télécharger les dossiers compressés;
@@ -31,7 +23,7 @@ Projet fait localement pour pouvoir jouer à Magic the Gathering entre amis, san
 
 [Lien de téléchargement pour les cartes à deux faces ainsi que les cartes tokens](https://send.tresorit.com/a#fjyBNBu1WgepQO-IBx40kw)
 
-### Setup
+
 1. Commencez par suivre les instructions d'**Installation** plus haut
 
 2. Dans le dossier obtenu, crééez un nouveau dossier nommé Cards :  
@@ -52,3 +44,9 @@ Projet fait localement pour pouvoir jouer à Magic the Gathering entre amis, san
 5. Voici le contenu du dossier Cards que vous devriez avoir après ce setup :
 
 ![image](./.guide/4_2.png)  
+
+
+### Voici ce que devrait avoir l'air votre dossier de jeu apès setup (et création de deck(s))
+![image](./.guide/5_3.png) 
+
+### Il est très probable que vous ayez un prompt windows, c'est simplement dû au fait que nous n'avons pas "signé" le jeu :
