@@ -26,7 +26,7 @@ Projet fait localement pour pouvoir jouer à Magic the Gathering entre amis, san
 
 1. Commencez par suivre les instructions d'**Installation** plus haut
 
-2. Dans le dossier obtenu, crééez un nouveau dossier nommé Cards :  
+2. Dans votre dossier de jeu, créez un nouveau dossier nommé Cards :  
 
 ![image](./.guide/2_2.png)  
 
