@@ -4,12 +4,15 @@ Projet fait localement pour pouvoir jouer à Magic the Gathering entre amis, san
 
 ## Installation
 
-### Setup du jeu
+### Setup du jeu et mises à jour
 [1. Veuillez télécharger le **bundle du jeu complet**](https://send.tresorit.com/a#b23OXzAYhY-b1xDumsupDw)
 
 2. Décompressez le dossier dans un dossier de votre choix :
-   
+![image](./.guide/1_1.png)
+![image](./.guide/1_2.png)
 
+3. Assurez-vous de **remplacer tous les fichiers existants** :
+![image](./.guide/1_3.png)  
 
 ### Setup des cartes
 > [!caution]
@@ -49,4 +52,6 @@ Projet fait localement pour pouvoir jouer à Magic the Gathering entre amis, san
 ### Voici ce que devrait avoir l'air votre dossier de jeu apès setup (et création de deck(s))
 ![image](./.guide/5_3.png) 
 
-### Il est très probable que vous ayez un prompt windows, c'est simplement dû au fait que nous n'avons pas "signé" le jeu :
+### Il est très probable que vous ayez un prompt windows, c'est simplement dû au fait que nous n'avons pas "signé" le jeu, ne vous inquiétez pas!
+![image](./.guide/6_1.png)
+![image](./.guide/6_2.png)  
